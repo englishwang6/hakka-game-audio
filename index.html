@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#2B837B">
+  <meta name="description" content="客語桌遊開發案四縣腔語音。掃描卡牌，聽客語、選道具，再揭曉情境。">
+  <title>客語桌遊開發案｜四縣腔語音</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="data.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到播放區</a>
+  <header class="site-header">
+    <a class="brand" href="./" aria-label="客語桌遊開發案首頁">客語桌遊開發案<span>聽客語・玩生活</span></a>
+    <span class="dialect-badge">四縣腔</span>
+  </header>
+  <main id="main" class="workspace">
+    <section class="player-column" aria-label="卡牌語音">
+      <div id="card-view"><p class="initial-message" role="status">正在載入卡牌…</p></div>
+    </section>
+    <aside class="library" aria-labelledby="library-heading">
+      <div class="library-heading"><h2 id="library-heading">找一張卡</h2><span id="card-count"></span></div>
+      <label class="field-label" for="card-search">卡號、場域或道具名稱</label>
+      <div class="search-wrap">
+        <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg>
+        <input id="card-search" type="search" autocomplete="off" placeholder="例如 H01、屋下、膠水">
+      </div>
+      <label class="field-label" for="category">分類</label>
+      <select id="category"><option value="all">全部卡牌</option></select>
+      <div id="card-list" class="card-list" aria-label="卡牌清單"></div>
+      <p id="search-summary" class="sr-only" role="status" aria-live="polite"></p>
+    </aside>
+  </main>
+  <footer class="site-footer">掃描卡牌 QR code，可直接開啟對應語音。</footer>
+  <noscript><p class="noscript-message">請開啟 JavaScript，才能選卡與播放語音。</p></noscript>
+</body>
+</html>

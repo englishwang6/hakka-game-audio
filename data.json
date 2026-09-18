@@ -1,0 +1,3001 @@
+{
+  "title": "客語桌遊開發案",
+  "version": "20260918",
+  "dialect": "四縣腔",
+  "source_version": "20260916_v10",
+  "fields": [
+    "屋下日常",
+    "灶下食飯",
+    "學校同儕",
+    "庄頭往來",
+    "共下做事"
+  ],
+  "cards": [
+    {
+      "id": "H01",
+      "field": "屋下日常",
+      "title": "送奶奶生日卡",
+      "script": "今天是奶奶生日耶！我們一起做張卡片送給她吧，先寫上祝福的話，再貼上我們的合照。",
+      "need1": "寫祝福語",
+      "need2": "貼照片",
+      "props1": [
+        "鉛筆"
+      ],
+      "props2": [
+        "膠水",
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T19",
+        "T22"
+      ],
+      "valid_props": [
+        "T27",
+        "T19",
+        "T22"
+      ],
+      "mandarin": "今天是奶奶生日耶！我們一起做張卡片送給她吧，先寫上祝福的話，再貼上我們的合照。",
+      "hakka": "今晡日係阿婆生日！𫣆俚共下來做張卡片送分佢。先寫兜祝福个話，正貼𫣆俚共下翕个相片。",
+      "pinyin": "gimˊ buˊ ngidˋ he aˊ poˇ sangˊ ngidˋ！ enˊ liˋ kiung ha loiˇ zo zongˊ kaˋ pienˋ sung bunˊ giˇ。 xienˊ xiaˋ deuˊ zugˋ fugˋ ge fa， zang diabˋ enˊ liˋ kiung ha hibˋ ge xiong pienˋ。",
+      "qty": 1,
+      "audio": "audio/H01.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.5744375
+    },
+    {
+      "id": "H02",
+      "field": "屋下日常",
+      "title": "和朋友分餅乾",
+      "script": "弟弟說想請朋友吃餅乾。那我們幫他把包裝剪開，分成幾份裝好吧。",
+      "need1": "剪開包裝",
+      "props1": [
+        "剪刀"
+      ],
+      "need2": "分裝餅乾",
+      "props2": [
+        "杯子",
+        "碗",
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 27,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T10",
+        "T39",
+        "T16"
+      ],
+      "valid_props": [
+        "T21",
+        "T10",
+        "T39",
+        "T16"
+      ],
+      "mandarin": "弟弟說想請朋友吃餅乾。那我們幫他把包裝剪開，分成幾份裝好吧。",
+      "hakka": "老弟講想請朋友食餅仔。𫣆俚來摎佢剪開包裝，分做幾份裝好。",
+      "pinyin": "loˋ taiˊ gongˋ xiongˋ qiangˋ penˇ iuˊ siid biangˋ eˋ。 enˊ liˋ loiˇ lauˊ giˇ jienˋ koiˊ bauˊ zongˊ， bunˊ zo giˋ fun zongˊ hoˋ。",
+      "qty": 1,
+      "audio": "audio/H02.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 8.63525
+    },
+    {
+      "id": "H03",
+      "field": "屋下日常",
+      "title": "洗澡後收拾",
+      "script": "洗好澡啦？身體先擦乾，換下來的衣服一起收好，等一下拿去洗喔。",
+      "need1": "擦乾身體",
+      "need2": "帶走待洗衣服",
+      "props1": [
+        "毛巾"
+      ],
+      "props2": [
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 26,
+      "valid_props1": [
+        "T01"
+      ],
+      "valid_props2": [
+        "T16"
+      ],
+      "valid_props": [
+        "T01",
+        "T16"
+      ],
+      "mandarin": "洗好澡啦？身體先擦乾，換下來的衣服一起收好，等一下拿去洗喔。",
+      "hakka": "洗身洗好吂？身體先捽燥來，換忒个衫褲收揫，等下拿去洗。",
+      "pinyin": "seˋ siinˊ seˋ hoˋ mangˇ？ siinˊ tiˋ xienˊ cud zauˊ loiˇ， von tedˋ ge samˊ fu suˊ qiuˊ， denˋ ha naˊ hi seˋ。",
+      "qty": 1,
+      "audio": "audio/H03.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.247875
+    },
+    {
+      "id": "H04",
+      "field": "屋下日常",
+      "title": "全家電影時間",
+      "script": "快來快來，電影要開始了！零食分裝好了，飲料也一起端過來，大家邊吃邊看吧。",
+      "need1": "把飲料端過來",
+      "need2": null,
+      "props1": [
+        "托盤",
+        "杯子"
+      ],
+      "props2": [],
+      "reason": "零食已分裝完成，不再計分；端飲料只算一項需求。",
+      "kind": "scenario",
+      "mandarin_characters": 31,
+      "valid_props1": [
+        "T18",
+        "T10"
+      ],
+      "valid_props2": [],
+      "valid_props": [
+        "T18",
+        "T10"
+      ],
+      "pairing_note": "本句未限制飲料杯數或一次搬運，托盤及直接持杯端送皆可。每張實體卡仍只能對應一項需求。",
+      "mandarin": "快來快來，電影要開始了！零食分裝好了，飲料也一起端過來，大家邊吃邊看吧。",
+      "hakka": "遽來，遽來，電影愛開始了！零嗒分好裝好了，飲料乜共下兜過來，大家緊食緊看。",
+      "pinyin": "giagˋ loiˇ， giagˋ loiˇ， tien iangˋ oi koiˊ siiˋ leˊ！ langˇ dab bunˊ hoˋ zongˊ hoˋ leˊ， imˋ liau me kiung ha deuˊ go loiˇ， tai gaˊ ginˋ siid ginˋ kon。",
+      "qty": 1,
+      "audio": "audio/H04.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 1,
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 13.007875
+    },
+    {
+      "id": "H05",
+      "field": "屋下日常",
+      "title": "保存以前的畫",
+      "script": "這張畫破了一個角，我捨不得丟掉。幫我黏一下，再跟其他畫收在一起吧。",
+      "need1": "修補畫紙",
+      "props1": [
+        "膠帶"
+      ],
+      "need2": "收存畫作",
+      "props2": [
+        "紙箱",
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T22"
+      ],
+      "valid_props2": [
+        "T14",
+        "T16"
+      ],
+      "valid_props": [
+        "T22",
+        "T14",
+        "T16"
+      ],
+      "mandarin": "這張畫破了一個角，我捨不得丟掉。幫我黏一下，再跟其他畫收在一起吧。",
+      "hakka": "這張畫爛忒一隻角，𠊎毋盼得擲忒。摎𠊎黏一下，正摎其他个畫共下收起來，好無？",
+      "pinyin": "iaˋ zongˊ fa lan tedˋ idˋ zagˋ gogˋ， ngaiˇ mˇ pan dedˋ deb tedˋ。 lauˊ ngaiˇ ngiamˇ idˋ ha， zang lauˊ kiˇ taˊ ge fa kiung ha suˊ hiˋ loiˇ， hoˋ moˇ？",
+      "qty": 1,
+      "audio": "audio/H05.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.1955625
+    },
+    {
+      "id": "H06",
+      "field": "屋下日常",
+      "title": "準備買新鞋",
+      "script": "媽媽說要幫我買新鞋！你幫我量一下腳的長度，寫下來給她看好嗎？",
+      "need1": "量腳長",
+      "need2": "記錄腳長",
+      "props1": [
+        "尺"
+      ],
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 27,
+      "valid_props1": [
+        "T31"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T31",
+        "T27"
+      ],
+      "mandarin": "媽媽說要幫我買新鞋！你幫我量一下腳的長度，寫下來給她看好嗎？",
+      "hakka": "阿姆講愛買新鞋分𠊎了！你摎𠊎丈一下腳有幾長，寫起來分佢看，好無？",
+      "pinyin": "aˊ meˊ gongˋ oi maiˊ xinˊ haiˇ bunˊ ngaiˇ leˊ！ ngiˇ lauˊ ngaiˇ cong idˋ ha giogˋ iuˊ giˋ congˇ， xiaˋ hiˋ loiˇ bunˊ giˇ kon， hoˋ moˇ？",
+      "qty": 1,
+      "audio": "audio/H06.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.281125
+    },
+    {
+      "id": "H07",
+      "field": "屋下日常",
+      "title": "幫奶奶搬家",
+      "script": "這箱書是要放到奶奶新房間的，搬家那天別搬錯了，封好後在箱子上寫「奶奶的房間」喔。",
+      "need1": "封住箱口",
+      "need2": "標示房間",
+      "props1": [
+        "膠帶"
+      ],
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T22"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T22",
+        "T27"
+      ],
+      "mandarin": "這箱書是要放到奶奶新房間的，搬家那天別搬錯了，封好後在箱子上寫「奶奶的房間」喔。",
+      "hakka": "這箱書愛放到阿婆个新房間，搬屋該日莫搬差。箱仔封好了，記得在頂項寫「阿婆个房間」。",
+      "pinyin": "iaˋ xiongˊ suˊ oi biong do aˊ poˇ ge xinˊ fongˇ gienˊ， banˊ vugˋ ge ngidˋ mog banˊ caˊ。 xiongˊ eˋ fungˊ hoˋ leˊ， gi dedˋ di dangˋ hong xiaˋ「 aˊ poˇ ge fongˇ gienˊ」。",
+      "qty": 1,
+      "audio": "audio/H07.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.185
+    },
+    {
+      "id": "H08",
+      "field": "屋下日常",
+      "title": "把蟲送到屋外",
+      "script": "啊！那隻蟲跑到床底下了！你幫我照亮床底下，我把牠罩住，帶到外面放生。",
+      "need1": "照亮床底",
+      "need2": "罩住並帶走蟲",
+      "props1": [
+        "手電筒"
+      ],
+      "props2": [
+        "杯子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T38"
+      ],
+      "valid_props2": [
+        "T10"
+      ],
+      "valid_props": [
+        "T38",
+        "T10"
+      ],
+      "mandarin": "啊！那隻蟲跑到床底下了！你幫我照亮床底下，我把牠罩住，帶到外面放生。",
+      "hakka": "該蟲仔走入眠床下了！你摎眠床下照光，𠊎摎佢弇等，帶到外背放忒。",
+      "pinyin": "ge cungˇ eˋ zeuˋ ngib minˇ congˇ haˊ leˊ！ ngiˇ lauˊ minˇ congˇ haˊ zeu gongˊ， ngaiˇ lauˊ giˇ kiemˇ denˋ， dai do ngoi boi biong tedˋ。",
+      "qty": 1,
+      "audio": "audio/H08.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.755125
+    },
+    {
+      "id": "H09",
+      "field": "屋下日常",
+      "title": "送表弟舊玩具",
+      "script": "這些玩具送給表弟好不好？灰塵有點多，我們先擦乾淨，再裝起來帶給他。",
+      "need1": "擦乾淨玩具",
+      "need2": "包裝玩具",
+      "props1": [
+        "衛生紙"
+      ],
+      "props2": [
+        "紙箱",
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T04"
+      ],
+      "valid_props2": [
+        "T14",
+        "T16"
+      ],
+      "valid_props": [
+        "T04",
+        "T14",
+        "T16"
+      ],
+      "mandarin": "這些玩具送給表弟好不好？灰塵有點多，我們先擦乾淨，再裝起來帶給他。",
+      "hakka": "這兜玩具送分表老弟好無？塵灰毋少，𫣆俚先捽淨來，正裝好帶分佢。",
+      "pinyin": "iaˋ deuˊ nguanˇ kiˋ sung bunˊ beuˋ loˋ taiˊ hoˋ moˇ？ ciinˇ foiˊ mˇ seuˋ， enˊ liˋ xienˊ cud qiang loiˇ， zang zongˊ hoˋ dai bunˊ giˇ。",
+      "qty": 1,
+      "audio": "audio/H09.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.0971875
+    },
+    {
+      "id": "H10",
+      "field": "屋下日常",
+      "title": "把過長的褲子改短",
+      "script": "這件長褲太長了，我想改成短褲。你幫我量一下長度，我來剪。",
+      "need1": "量裁剪長度",
+      "need2": "剪褲管",
+      "props1": [
+        "尺"
+      ],
+      "props2": [
+        "剪刀"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 24,
+      "valid_props1": [
+        "T31"
+      ],
+      "valid_props2": [
+        "T21"
+      ],
+      "valid_props": [
+        "T31",
+        "T21"
+      ],
+      "mandarin": "這件長褲太長了，我想改成短褲。你幫我量一下長度，我來剪。",
+      "hakka": "這條長褲忒長了，𠊎想改做短褲。你摎𠊎丈一下愛留幾長，𠊎來剪。",
+      "pinyin": "iaˋ tiauˇ congˇ fu tedˋ congˇ leˊ， ngaiˇ xiongˋ goiˋ zo donˋ fu。 ngiˇ lauˊ ngaiˇ cong idˋ ha oi liuˇ giˋ congˇ， ngaiˇ loiˇ jienˋ。",
+      "qty": 1,
+      "audio": "audio/H10.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.751375
+    },
+    {
+      "id": "H11",
+      "field": "屋下日常",
+      "title": "餵家裡的小狗",
+      "script": "小狗一直盯著我們看，是肚子餓了吧？舀點飼料給牠吃，再放碗水給牠喝。",
+      "need1": "舀飼料",
+      "need2": "盛水供小狗喝",
+      "props1": [
+        "湯匙",
+        "杯子"
+      ],
+      "props2": [
+        "碗"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T35",
+        "T10"
+      ],
+      "valid_props2": [
+        "T39"
+      ],
+      "valid_props": [
+        "T35",
+        "T10",
+        "T39"
+      ],
+      "mandarin": "小狗一直盯著我們看，是肚子餓了吧？舀點飼料給牠吃，再放碗水給牠喝。",
+      "hakka": "狗仔緊看等𫣆俚，敢係肚屎枵了？舀兜飼料分佢食，正放一碗水分佢食。",
+      "pinyin": "gieuˋ eˋ ginˋ kon denˋ enˊ liˋ， gamˋ he duˋ siiˋ iauˊ leˊ？ ieuˋ deuˊ ciiˇ liau bunˊ giˇ siid， zang biong idˋ vonˋ suiˋ bunˊ giˇ siid。",
+      "qty": 1,
+      "audio": "audio/H11.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.457
+    },
+    {
+      "id": "H12",
+      "field": "屋下日常",
+      "title": "自己做紙皇冠",
+      "script": "我想做一頂皇冠！先沿著紙邊剪出尖角，兩頭黏起來，試試看能不能戴上去。",
+      "need1": "剪皇冠形狀",
+      "props1": [
+        "剪刀"
+      ],
+      "need2": "黏成環形",
+      "props2": [
+        "膠水",
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 30,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T19",
+        "T22"
+      ],
+      "valid_props": [
+        "T21",
+        "T19",
+        "T22"
+      ],
+      "mandarin": "我想做一頂皇冠！先沿著紙邊剪出尖角，兩頭黏起來，試試看能不能戴上去。",
+      "hakka": "𠊎想做頂皇冠！先跈等紙脣剪出尖角，兩頭黏起來，試看做得戴上去無。",
+      "pinyin": "ngaiˇ xiongˋ zo dangˋ fongˇ gonˊ！ xienˊ tenˇ denˋ ziiˋ sunˇ jienˋ cudˋ jiamˊ gogˋ， liongˋ teuˇ ngiamˇ hiˋ loiˇ， cii kon zo dedˋ dai songˊ hi moˇ。",
+      "qty": 1,
+      "audio": "audio/H12.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.733125
+    },
+    {
+      "id": "K01",
+      "field": "灶下食飯",
+      "title": "盛好午餐的湯麵",
+      "script": "麵煮好了，趁熱吃吧！麵夾到碗裡，也要舀些湯，別光吃麵喔。",
+      "need1": "夾麵",
+      "need2": "舀湯",
+      "props1": [
+        "筷子"
+      ],
+      "props2": [
+        "湯匙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 23,
+      "valid_props1": [
+        "T34"
+      ],
+      "valid_props2": [
+        "T35"
+      ],
+      "valid_props": [
+        "T34",
+        "T35"
+      ],
+      "mandarin": "麵煮好了，趁熱吃吧！麵夾到碗裡，也要舀些湯，別光吃麵喔。",
+      "hakka": "麵煮好了，趕燒食！麵挾落碗肚，湯乜愛舀兜，莫淨食麵。",
+      "pinyin": "mien zuˋ hoˋ leˊ， gonˋ seuˊ siid！ mien giabˋ log vonˋ duˋ， tongˊ me oi ieuˋ deuˊ， mog qiang siid mien。",
+      "qty": 1,
+      "audio": "audio/K01.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.5695
+    },
+    {
+      "id": "K02",
+      "field": "灶下食飯",
+      "title": "做水果點心",
+      "script": "水果切好了，加點蜂蜜吧。你把水果裝好，我舀蜂蜜進去拌一拌。",
+      "need1": "盛水果",
+      "need2": "加蜂蜜並攪拌",
+      "props1": [
+        "碗"
+      ],
+      "props2": [
+        "湯匙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 25,
+      "valid_props1": [
+        "T39"
+      ],
+      "valid_props2": [
+        "T35"
+      ],
+      "valid_props": [
+        "T39",
+        "T35"
+      ],
+      "mandarin": "水果切好了，加點蜂蜜吧。你把水果裝好，我舀蜂蜜進去拌一拌。",
+      "hakka": "果子都切好了，來加兜蜂糖。你摎果子裝好，𠊎舀蜂糖入去攪一下。",
+      "pinyin": "goˋ ziiˋ du qiedˋ hoˋ leˊ， loiˇ gaˊ deuˊ pungˊ tongˇ。 ngiˇ lauˊ goˋ ziiˋ zongˊ hoˋ， ngaiˇ ieuˋ pungˊ tongˇ ngib hi giauˊ idˋ ha。",
+      "qty": 1,
+      "audio": "audio/K02.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.620875
+    },
+    {
+      "id": "K03",
+      "field": "灶下食飯",
+      "title": "幫飯糰做表情",
+      "script": "這個飯糰好像少了一張臉耶！把火腿剪成眼睛和嘴巴貼上去，讓它笑一個。",
+      "kind": "scenario",
+      "mandarin_characters": 30,
+      "game_pairing_status": "老師定稿改變動作或準備狀態，原配對不可直接沿用；本次只修訂錄音稿，未重新核定遊戲配對。",
+      "mandarin": "這個飯糰好像少了一張臉耶！把火腿剪成眼睛和嘴巴貼上去，讓它笑一個。",
+      "hakka": "這隻飯糰看起來還欠隻面！火腿剪做目珠摎嘴，貼上去，分佢笑一下。",
+      "pinyin": "iaˋ zagˋ fan tonˇ kon hiˋ loiˇ hanˇ kiam zagˋ mien！ foˋ tuiˋ jienˋ zo mugˋ zuˊ lauˊ zoi， diabˋ songˊ hi， bunˊ giˇ seu idˋ ha。",
+      "qty": 1,
+      "audio": "audio/K03.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "need1": "把火腿剪成眼睛與嘴巴",
+      "need2": "把剪好的火腿擺到飯糰上",
+      "props1": [
+        "剪刀"
+      ],
+      "props2": [
+        "筷子"
+      ],
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T34"
+      ],
+      "valid_props": [
+        "T21",
+        "T34"
+      ],
+      "max_score": 2,
+      "reason": "原文明說剪出形狀與貼上飯糰兩項未完成動作；剪刀對應剪火腿，筷子可夾取、擺放小片火腿完成表情。擺放屬原文貼上的實際動作，沒有新增包裝或黏著程序。眼睛與嘴巴合併為同一擺放需求，不重複得分；食品本身可附著，不使用文具黏著劑。",
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.6819375
+    },
+    {
+      "id": "K04",
+      "field": "灶下食飯",
+      "title": "保存吃不完的菜",
+      "script": "還剩這麼多菜，吃不完了，把剩菜裝好放冰箱，下一餐再吃吧。",
+      "kind": "scenario",
+      "mandarin_characters": 24,
+      "game_pairing_status": "老師定稿改變動作或準備狀態，原配對不可直接沿用；本次只修訂錄音稿，未重新核定遊戲配對。",
+      "mandarin": "還剩這麼多菜，吃不完了，把剩菜裝好放冰箱，下一餐再吃吧。",
+      "hakka": "還有恁多菜，食毋忒了。摎這兜菜裝好，放落冰箱，下二餐正食。",
+      "pinyin": "hanˇ iuˊ anˋ doˊ coi， siid mˇ tedˋ leˊ。 lauˊ iaˋ deuˊ coi zongˊ hoˋ， biong log benˊ xiongˊ， ha ngi conˊ zang siid。",
+      "qty": 1,
+      "audio": "audio/K04.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "need1": "把剩菜裝入適合盛食物的容器",
+      "need2": null,
+      "props1": [
+        "碗"
+      ],
+      "props2": [],
+      "valid_props1": [
+        "T39"
+      ],
+      "valid_props2": [],
+      "valid_props": [
+        "T39"
+      ],
+      "max_score": 1,
+      "reason": "原文的未完成工作是把剩菜裝好再放冰箱；現有道具中以碗作盛裝容器，這一連續保存工作計1項需求。「夾菜」或「舀菜」可能是完成工作的方式，但原文沒有另立分菜或特定取菜要求，不再設第二得分需求。放進冰箱可直接用手，不能再以搬運工具加分。為本次最精簡固定答案，採通常用來盛熟食的碗；未另外假設袋子為食品保鮮袋、瓶子廣口或杯子容量。",
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.0806875
+    },
+    {
+      "id": "K05",
+      "field": "灶下食飯",
+      "title": "準備洗青菜",
+      "script": "今天晚餐吃青菜。來幫我把菜根剪掉，把菜裝好拿去洗吧。",
+      "need1": "剪菜根",
+      "need2": "盛菜清洗",
+      "props1": [
+        "剪刀"
+      ],
+      "props2": [
+        "碗"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 23,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T39"
+      ],
+      "valid_props": [
+        "T21",
+        "T39"
+      ],
+      "mandarin": "今天晚餐吃青菜。來幫我把菜根剪掉，把菜裝好拿去洗吧。",
+      "hakka": "今晡日暗晡頭食青菜，來摎𠊎剪忒菜根，摎菜裝好拿去洗。",
+      "pinyin": "gimˊ buˊ ngidˋ am buˊ teuˇ siid qiangˊ coi， loiˇ lauˊ ngaiˇ jienˋ tedˋ coi ginˊ， lauˊ coi zongˊ hoˋ naˊ hi seˋ。",
+      "qty": 1,
+      "audio": "audio/K05.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 8.581
+    },
+    {
+      "id": "K06",
+      "field": "灶下食飯",
+      "title": "把水餃端上桌",
+      "script": "水餃煮好了！幫大家裝好，一人一盤，再一起端出去，大家都在等囉。",
+      "need1": "分水餃",
+      "need2": "同時端幾份餐盤",
+      "props1": [
+        "筷子",
+        "湯匙"
+      ],
+      "props2": [
+        "托盤"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 26,
+      "valid_props1": [
+        "T34",
+        "T35"
+      ],
+      "valid_props2": [
+        "T18"
+      ],
+      "valid_props": [
+        "T34",
+        "T35",
+        "T18"
+      ],
+      "mandarin": "水餃煮好了！幫大家裝好，一人一盤，再一起端出去，大家都在等囉。",
+      "hakka": "水餃煮好了！摎大家裝好，一儕一盤，正共下兜出去，大家都在該等。",
+      "pinyin": "suiˋ giauˋ zuˋ hoˋ leˊ！ lauˊ tai gaˊ zongˊ hoˋ， idˋ saˇ idˋ panˇ， zang kiung ha deuˊ cudˋ hi， tai gaˊ du du ge denˋ。",
+      "qty": 1,
+      "audio": "audio/K06.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.7325
+    },
+    {
+      "id": "K07",
+      "field": "灶下食飯",
+      "title": "分清楚鹽和糖",
+      "script": "這兩罐看起來好像喔，一罐鹽一罐糖。把寫好名字的紙貼在罐子上，才不會拿錯。",
+      "kind": "scenario",
+      "mandarin_characters": 32,
+      "game_pairing_status": "老師定稿改變動作或準備狀態，原配對不可直接沿用；本次只修訂錄音稿，未重新核定遊戲配對。",
+      "mandarin": "這兩罐看起來好像喔，一罐鹽一罐糖。把寫好名字的紙貼在罐子上，才不會拿錯。",
+      "hakka": "這兩罐看起來恁相像，一罐鹽，一罐糖。摎寫好名个紙貼在罐仔項，正毋會拿差。",
+      "pinyin": "iaˋ liongˋ gon kon hiˋ loiˇ anˋ xiongˊ qiong， idˋ gon iamˇ， idˋ gon tongˇ。 lauˊ xiaˋ hoˋ miangˇ ge ziiˋ diabˋ di gon eˋ hong， zang mˇ voi naˊ caˊ。",
+      "qty": 1,
+      "audio": "audio/K07.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "need1": "把已寫好名稱的紙貼到對應罐子上",
+      "need2": null,
+      "props1": [
+        "膠水",
+        "膠帶"
+      ],
+      "props2": [],
+      "valid_props1": [
+        "T19",
+        "T22"
+      ],
+      "valid_props2": [],
+      "valid_props": [
+        "T19",
+        "T22"
+      ],
+      "max_score": 1,
+      "reason": "「寫好名字的紙」已存在，剩下的是黏貼標籤。膠水或膠帶均能完成同一黏貼需求。兩個罐子及兩張標籤仍屬同一需求，最多1分；寫字、剪紙及重新分裝均不能加分。",
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.4295625
+    },
+    {
+      "id": "K08",
+      "field": "灶下食飯",
+      "title": "把餅乾送給鄰居",
+      "script": "餅乾烤好了，幫我送一些給鄰居嚐嚐。裝好以後袋口要封緊，別走到一半掉出來。",
+      "need1": "包裝餅乾",
+      "need2": "封住外包裝開口",
+      "props1": [
+        "袋子"
+      ],
+      "props2": [
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 32,
+      "valid_props1": [
+        "T16"
+      ],
+      "valid_props2": [
+        "T22"
+      ],
+      "valid_props": [
+        "T16",
+        "T22"
+      ],
+      "mandarin": "餅乾烤好了，幫我送一些給鄰居嚐嚐。裝好以後袋口要封緊，別走到一半掉出來。",
+      "hakka": "餅仔焙好了，摎𠊎送兜分鄰舍食看。裝好了，袋仔口愛封密，莫半路跌出來。",
+      "pinyin": "biangˋ eˋ poi hoˋ leˊ， lauˊ ngaiˇ sung deuˊ bunˊ linˇ sa siid kon。 zongˊ hoˋ leˊ， toi eˋ heuˋ oi fungˊ miˊ， mog ban lu diedˋ cudˋ loiˇ。",
+      "qty": 1,
+      "audio": "audio/K08.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.298
+    },
+    {
+      "id": "K09",
+      "field": "灶下食飯",
+      "title": "收拾晚餐後的廚房",
+      "script": "吃飽了，一起收拾廚房吧，你擦桌上的湯汁，我掃地上的飯粒。",
+      "need1": "擦掉湯汁",
+      "need2": "掃掉飯粒",
+      "props1": [
+        "衛生紙"
+      ],
+      "props2": [
+        "掃把"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 24,
+      "valid_props1": [
+        "T04"
+      ],
+      "valid_props2": [
+        "T05"
+      ],
+      "valid_props": [
+        "T04",
+        "T05"
+      ],
+      "mandarin": "吃飽了，一起收拾廚房吧，你擦桌上的湯汁，我掃地上的飯粒。",
+      "hakka": "食飽了，共下來收灶下。你捽桌項个湯，地泥个飯粒𠊎來掃。",
+      "pinyin": "siid bauˋ leˊ， kiung ha loiˇ suˊ zo haˊ。 ngiˇ cud zogˋ hong ge tongˊ， ti naiˇ ge fan liab ngaiˇ loiˇ so。",
+      "qty": 1,
+      "audio": "audio/K09.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 8.8015
+    },
+    {
+      "id": "K10",
+      "field": "灶下食飯",
+      "title": "把蔥留到下次煮",
+      "script": "這把蔥太多了，一餐用不完，剪成一小段一小段裝好冰起來，下次炒菜就能用。",
+      "need1": "剪蔥段",
+      "need2": "分裝蔥段冷藏",
+      "props1": [
+        "剪刀"
+      ],
+      "props2": [
+        "袋子",
+        "碗"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 31,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T16",
+        "T39"
+      ],
+      "valid_props": [
+        "T21",
+        "T16",
+        "T39"
+      ],
+      "mandarin": "這把蔥太多了，一餐用不完，剪成一小段一小段裝好冰起來，下次炒菜就能用。",
+      "hakka": "這揢蔥仔忒多了，一餐用毋忒。剪做短短仔一截一截，裝好放落冰箱，下二擺炒菜就有好用。",
+      "pinyin": "iaˋ kag cungˊ eˋ tedˋ doˊ leˊ， idˋ conˊ iung mˇ tedˋ。 jienˋ zo donˋ donˋ eˋ idˋ jiedˋ idˋ jiedˋ， zongˊ hoˋ biong log benˊ xiongˊ， ha ngi baiˋ cauˋ coi qiu iuˊ hoˋ iung。",
+      "qty": 1,
+      "audio": "audio/K10.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 13.32725
+    },
+    {
+      "id": "K11",
+      "field": "灶下食飯",
+      "title": "跟奶奶學調醬汁",
+      "script": "原來奶奶做的醬要加三匙糖啊！我來舀，你幫我寫下來，免得下次又忘記。",
+      "need1": "取糖加入醬汁",
+      "need2": "記錄配方用量",
+      "props1": [
+        "湯匙"
+      ],
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T35"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T35",
+        "T27"
+      ],
+      "mandarin": "原來奶奶做的醬要加三匙糖啊！我來舀，你幫我寫下來，免得下次又忘記。",
+      "hakka": "原來阿婆做个醬愛加三匙糖！𠊎來舀，你摎𠊎寫起來，正毋會下二擺又毋記得。",
+      "pinyin": "ngienˇ loiˇ aˊ poˇ zo ge jiong oi gaˊ samˊ ciiˇ tongˇ！ ngaiˇ loiˇ ieuˋ， ngiˇ lauˊ ngaiˇ xiaˋ hiˋ loiˇ， zang mˇ voi ha ngi baiˋ iu mˇ gi dedˋ。",
+      "qty": 1,
+      "audio": "audio/K11.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.718375
+    },
+    {
+      "id": "K12",
+      "field": "灶下食飯",
+      "title": "拌好涼麵",
+      "script": "涼麵的醬還沒加呢，把醬料包剪開倒進去，拌一拌就能吃了。",
+      "need1": "剪開醬料包",
+      "need2": "把醬料與麵拌勻",
+      "props1": [
+        "剪刀"
+      ],
+      "props2": [
+        "筷子",
+        "湯匙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 24,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T34",
+        "T35"
+      ],
+      "valid_props": [
+        "T21",
+        "T34",
+        "T35"
+      ],
+      "mandarin": "涼麵的醬還沒加呢，把醬料包剪開倒進去，拌一拌就能吃了。",
+      "hakka": "涼麵个醬料還吂加。摎這包醬料剪開，倒落去，攪一下就食得了。",
+      "pinyin": "liongˇ mien ge jiong liau hanˇ mangˇ gaˊ。 lauˊ iaˋ bauˊ jiong liau jienˋ koiˊ， doˋ log hi， giauˊ idˋ ha qiu siid dedˋ leˊ。",
+      "qty": 1,
+      "audio": "audio/K12.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.564125
+    },
+    {
+      "id": "S01",
+      "field": "學校同儕",
+      "title": "園遊會果汁攤",
+      "script": "園遊會好熱鬧喔！這位客人要三杯果汁，你幫我倒好，我再一起端給他。",
+      "need1": "分裝果汁",
+      "props1": [
+        "杯子"
+      ],
+      "need2": "一起端飲料",
+      "props2": [
+        "托盤"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 28,
+      "valid_props1": [
+        "T10"
+      ],
+      "valid_props2": [
+        "T18"
+      ],
+      "valid_props": [
+        "T10",
+        "T18"
+      ],
+      "mandarin": "園遊會好熱鬧喔！這位客人要三杯果汁，你幫我倒好，我再一起端給他。",
+      "hakka": "園遊會還鬧熱！這位人客愛三杯果汁，你摎𠊎倒好，𠊎正摎三杯共下兜分佢。",
+      "pinyin": "ienˇ iuˇ fi hanˇ nau ngied！ iaˋ vi nginˇ hagˋ oi samˊ biˊ goˋ ziibˋ， ngiˇ lauˊ ngaiˇ doˋ hoˋ， ngaiˇ zang lauˊ samˊ biˊ kiung ha deuˊ bunˊ giˇ。",
+      "qty": 1,
+      "audio": "audio/S01.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.6969375
+    },
+    {
+      "id": "S02",
+      "field": "學校同儕",
+      "title": "班上大掃除",
+      "script": "今天大掃除，我們這組負責掃地，你把紙屑從那邊掃過來，我裝好拿去丟。",
+      "need1": "掃攏紙屑",
+      "props1": [
+        "掃把"
+      ],
+      "need2": "收裝紙屑",
+      "props2": [
+        "袋子",
+        "紙箱"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T05"
+      ],
+      "valid_props2": [
+        "T16",
+        "T14"
+      ],
+      "valid_props": [
+        "T05",
+        "T16",
+        "T14"
+      ],
+      "mandarin": "今天大掃除，我們這組負責掃地，你把紙屑從那邊掃過來，我裝好拿去丟。",
+      "hakka": "今晡日大拚掃，𫣆俚這組負責掃地泥。你摎碎紙對該片掃過來，𠊎裝好拿去擲。",
+      "pinyin": "gimˊ buˊ ngidˋ tai biang so， enˊ liˋ iaˋ zuˊ fu jidˋ so ti naiˇ。 ngiˇ lauˊ sui ziiˋ di ge pienˋ so go loiˇ， ngaiˇ zongˊ hoˋ naˊ hi deb。",
+      "qty": 1,
+      "audio": "audio/S02.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.5805
+    },
+    {
+      "id": "S03",
+      "field": "學校同儕",
+      "title": "製作班級名牌",
+      "script": "校外教學的名牌做好了沒？名字寫大一點喔，寫好再沿著線剪下來。",
+      "need1": "寫名牌",
+      "props1": [
+        "鉛筆"
+      ],
+      "need2": "剪名牌",
+      "props2": [
+        "剪刀"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 27,
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T21"
+      ],
+      "valid_props": [
+        "T27",
+        "T21"
+      ],
+      "mandarin": "校外教學的名牌做好了沒？名字寫大一點喔，寫好再沿著線剪下來。",
+      "hakka": "校外教學个名牌做好吂？名愛寫大兜，寫好正跈等線剪出來。",
+      "pinyin": "gauˋ ngoi gauˊ hog ge miangˇ paiˇ zo hoˋ mangˇ？ miangˇ oi xiaˋ tai deuˊ， xiaˋ hoˋ zang tenˇ denˋ xien jienˋ cudˋ loiˇ。",
+      "qty": 1,
+      "audio": "audio/S03.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 8.691875
+    },
+    {
+      "id": "S04",
+      "field": "學校同儕",
+      "title": "讓綠豆發芽",
+      "script": "自然課要種綠豆囉，盤子裡墊張衛生紙，澆濕以後放上綠豆，明天再來看看。",
+      "need1": "墊吸水紙",
+      "props1": [
+        "衛生紙"
+      ],
+      "need2": "澆濕紙張",
+      "props2": [
+        "瓶子",
+        "杯子",
+        "湯匙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 30,
+      "valid_props1": [
+        "T04"
+      ],
+      "valid_props2": [
+        "T32",
+        "T10",
+        "T35"
+      ],
+      "valid_props": [
+        "T04",
+        "T32",
+        "T10",
+        "T35"
+      ],
+      "mandarin": "自然課要種綠豆囉，盤子裡墊張衛生紙，澆濕以後放上綠豆，明天再來看看。",
+      "hakka": "自然課愛種綠豆仔了。盤仔肚墊張衛生紙，淋溼了正放綠豆仔，天光日正來看。",
+      "pinyin": "cii ienˇ ko oi zung liug teu eˋ leˊ。 panˇ eˋ duˋ tiabˋ zongˊ vi senˊ ziiˋ， limˇ siibˋ leˊ zang biong liug teu eˋ， tienˊ gongˊ ngidˋ zang loiˇ kon。",
+      "qty": 1,
+      "audio": "audio/S04.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.881125
+    },
+    {
+      "id": "S05",
+      "field": "學校同儕",
+      "title": "製作沙鈴",
+      "script": "音樂課要做樂器，可以使用空瓶或杯子，裡面裝點米並封住開口，搖一搖就會發出聲音。",
+      "need1": "盛裝米粒",
+      "props1": [
+        "瓶子",
+        "杯子"
+      ],
+      "need2": "封住開口",
+      "props2": [
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T32",
+        "T10"
+      ],
+      "valid_props2": [
+        "T22"
+      ],
+      "valid_props": [
+        "T32",
+        "T10",
+        "T22"
+      ],
+      "mandarin": "音樂課要做樂器，可以使用空瓶或杯子，裡面裝點米並封住開口，搖一搖就會發出聲音。",
+      "hakka": "音樂課愛做樂器，空盎仔抑係杯仔都用得。裝兜米落去，口封好，搖一下就會出聲。",
+      "pinyin": "imˊ ngog ko oi zo ngog hi， kungˊ angˊ eˋ ia he biˊ eˋ du iung dedˋ。 zongˊ deuˊ miˋ log hi， heuˋ fungˊ hoˋ， ieuˇ idˋ ha qiu voi cudˋ sangˊ。",
+      "qty": 1,
+      "audio": "audio/S05.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.76975
+    },
+    {
+      "id": "S06",
+      "field": "學校同儕",
+      "title": "觀察影子變化",
+      "script": "自然課來玩影子遊戲，你拿手電筒慢慢移動，照著積木，我來量看看影子會變多長。",
+      "need1": "照出影子",
+      "props1": [
+        "手電筒"
+      ],
+      "need2": "量影子長度",
+      "props2": [
+        "尺"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 33,
+      "valid_props1": [
+        "T38"
+      ],
+      "valid_props2": [
+        "T31"
+      ],
+      "valid_props": [
+        "T38",
+        "T31"
+      ],
+      "mandarin": "自然課來玩影子遊戲，你拿手電筒慢慢移動，照著積木，我來量看看影子會變多長。",
+      "hakka": "自然課來搞影仔。你拿手電筒仔慢慢仔徙，照等積木，𠊎來丈，看影仔會變幾長。",
+      "pinyin": "cii ienˇ ko loiˇ gauˋ iangˋ eˋ。 ngiˇ naˊ suˋ tien tungˇ eˋ man man eˋ saiˋ， zeu denˋ jidˋ mugˋ， ngaiˇ loiˇ cong， kon iangˋ eˋ voi bien giˋ congˇ。",
+      "qty": 1,
+      "audio": "audio/S06.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.640625
+    },
+    {
+      "id": "S07",
+      "field": "學校同儕",
+      "title": "運動會準備",
+      "script": "明天運動會，我要參加跑步比賽耶！水要先裝好，再想想到時滿頭大汗要怎麼辦。",
+      "need1": "為跑步比賽預先裝好水",
+      "props1": [
+        "瓶子"
+      ],
+      "need2": "準備處理流汗的用品",
+      "props2": [
+        "毛巾",
+        "衛生紙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 32,
+      "valid_props1": [
+        "T32"
+      ],
+      "valid_props2": [
+        "T01",
+        "T04"
+      ],
+      "valid_props": [
+        "T32",
+        "T01",
+        "T04"
+      ],
+      "mandarin": "明天運動會，我要參加跑步比賽耶！水要先裝好，再想想到時滿頭大汗要怎麼辦。",
+      "hakka": "天光日運動會，𠊎愛參加走相逐！水愛先裝好，正想看到時出到歸頭汗愛仰般。",
+      "pinyin": "tienˊ gongˊ ngidˋ iun tung fi， ngaiˇ oi camˊ gaˊ zeuˋ xiongˊ giugˋ！ suiˋ oi xienˊ zongˊ hoˋ， zang xiongˋ kon do siiˇ cudˋ do guiˊ teuˇ hon oi ngiongˋ banˊ。",
+      "qty": 1,
+      "audio": "audio/S07.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.776625
+    },
+    {
+      "id": "S08",
+      "field": "學校同儕",
+      "title": "投票選班長",
+      "script": "要選班長囉，你想選誰？名字寫好，大家的選票收齊，就可以開票了。",
+      "need1": "寫選票",
+      "props1": [
+        "鉛筆"
+      ],
+      "need2": "集中選票",
+      "props2": [
+        "紙箱",
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 26,
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T14",
+        "T16"
+      ],
+      "valid_props": [
+        "T27",
+        "T14",
+        "T16"
+      ],
+      "mandarin": "要選班長囉，你想選誰？名字寫好，大家的選票收齊，就可以開票了。",
+      "hakka": "愛選班長了，你想選麼人？名寫好，大家个選票全部收好，𫣆俚就來算票。",
+      "pinyin": "oi xienˋ banˊ zongˋ leˊ， ngiˇ xiongˋ xienˋ maˋ nginˇ？ miangˇ xiaˋ hoˋ， tai gaˊ ge xienˋ peuˊ qionˇ pu suˊ hoˋ， enˊ liˋ qiu loiˇ son peuˊ。",
+      "qty": 1,
+      "audio": "audio/S08.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.35025
+    },
+    {
+      "id": "S09",
+      "field": "學校同儕",
+      "title": "美術課拼貼畫",
+      "script": "美術課來拼一幅畫吧，想剪什麼形狀都行，排一排，黏成自己喜歡的樣子。",
+      "need1": "剪形狀",
+      "props1": [
+        "剪刀"
+      ],
+      "need2": "黏貼拼圖",
+      "props2": [
+        "膠水",
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T19",
+        "T22"
+      ],
+      "valid_props": [
+        "T21",
+        "T19",
+        "T22"
+      ],
+      "mandarin": "美術課來拼一幅畫吧，想剪什麼形狀都行，排一排，黏成自己喜歡的樣子。",
+      "hakka": "美術課來拼一幅畫。想剪麼个形狀都做得，排一下，正黏做自家中意个樣仔。",
+      "pinyin": "miˊ sud ko loiˇ pinˊ idˋ bugˋ fa。 xiongˋ jienˋ maˋ ge hinˇ cong du zo dedˋ， baiˇ idˋ ha， zang ngiamˇ zo cii gaˊ zung i ge iong eˋ。",
+      "qty": 1,
+      "audio": "audio/S09.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.3083125
+    },
+    {
+      "id": "S10",
+      "field": "學校同儕",
+      "title": "準備校外教學報告",
+      "script": "明天要跟全班說明校外教學的事，先把這幾張照片貼在紙上，旁邊寫點介紹，免得到時候忘記說。",
+      "need1": "貼照片",
+      "props1": [
+        "膠水",
+        "膠帶"
+      ],
+      "need2": "寫介紹",
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 39,
+      "valid_props1": [
+        "T19",
+        "T22"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T19",
+        "T22",
+        "T27"
+      ],
+      "mandarin": "明天要跟全班說明校外教學的事，先把這幾張照片貼在紙上，旁邊寫點介紹，免得到時候忘記說。",
+      "hakka": "天光日愛摎全班講校外教學个事。先摎這幾張相片貼在紙項，脣項寫兜紹介，到時正毋會毋記得講。",
+      "pinyin": "tienˊ gongˊ ngidˋ oi lauˊ qionˇ banˊ gongˋ gauˋ ngoi gauˊ hog ge sii。 xienˊ lauˊ iaˋ giˋ zongˊ xiong pienˋ diabˋ di ziiˋ hong， sunˇ hong xiaˋ deuˊ seu gie， do siiˇ zang mˇ voi mˇ gi dedˋ gongˋ。",
+      "qty": 1,
+      "audio": "audio/S10.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 14.296375
+    },
+    {
+      "id": "S11",
+      "field": "學校同儕",
+      "title": "失物招領",
+      "script": "這幾支筆不知道是誰的，先插在杯子裡吧，再寫張紙條，說明是在哪裡撿到的。",
+      "need1": "收好遺失物",
+      "props1": [
+        "杯子"
+      ],
+      "need2": "記錄地點",
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 31,
+      "valid_props1": [
+        "T10"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T10",
+        "T27"
+      ],
+      "mandarin": "這幾支筆不知道是誰的，先插在杯子裡吧，再寫張紙條，說明是在哪裡撿到的。",
+      "hakka": "毋知這幾支筆係麼人个，先插在杯仔肚。正寫張紙條，寫清楚係在哪位拈著个。",
+      "pinyin": "mˇ diˊ iaˋ giˋ giˊ bidˋ he maˋ nginˇ ge， xienˊ cabˋ di biˊ eˋ duˋ。 zang xiaˋ zongˊ ziiˋ tiauˇ， xiaˋ qinˊ cuˋ he di nai vi ngiamˊ doˋ ge。",
+      "qty": 1,
+      "audio": "audio/S11.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.924125
+    },
+    {
+      "id": "S12",
+      "field": "學校同儕",
+      "title": "雨天走路上學",
+      "script": "課本都放進書包了嗎？背好書包，我們走路去上學，外面在下雨，別忘了撐傘喔。",
+      "need1": "把課本裝進書包背著走",
+      "props1": [
+        "書包"
+      ],
+      "need2": "走路遮雨",
+      "props2": [
+        "雨傘"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 31,
+      "valid_props1": [
+        "T15"
+      ],
+      "valid_props2": [
+        "T23"
+      ],
+      "valid_props": [
+        "T15",
+        "T23"
+      ],
+      "mandarin": "課本都放進書包了嗎？背好書包，我們走路去上學，外面在下雨，別忘了撐傘喔。",
+      "hakka": "課本都收入書包仔吂？背好書包仔，𫣆俚行路去讀書。外背落雨，記得擎遮仔。",
+      "pinyin": "ko bunˋ du suˊ ngib suˊ bauˊ eˋ mangˇ？ baˇ hoˋ suˊ bauˊ eˋ， enˊ liˋ hangˇ lu hi tug suˊ。 ngoi boi log iˋ， gi dedˋ kiaˇ zaˊ eˋ。",
+      "qty": 1,
+      "audio": "audio/S12.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.1175
+    },
+    {
+      "id": "V01",
+      "field": "庄頭往來",
+      "title": "二手書市集",
+      "script": "社區要辦二手書市集，我們一起去擺攤吧。封面破了的先貼好，每本書也記得寫上價錢。",
+      "need1": "遇到破損封面時修補",
+      "props1": [
+        "膠帶"
+      ],
+      "need2": "為每本書標價",
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T22"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T22",
+        "T27"
+      ],
+      "mandarin": "社區要辦二手書市集，我們一起去擺攤吧。封面破了的先貼好，每本書也記得寫上價錢。",
+      "hakka": "社區愛辦舊書市場，𫣆俚共下去擺攤仔。封面爛忒个先貼好，逐本書乜愛記得寫好價錢。",
+      "pinyin": "sa kiˊ oi pan kiu suˊ sii congˇ， enˊ liˋ kiung ha hi baiˋ tanˊ eˋ。 fungˊ mien lan tedˋ ge xienˊ diabˋ hoˋ， dagˋ bunˋ suˊ me oi gi dedˋ xiaˋ hoˋ ga qienˇ。",
+      "qty": 1,
+      "audio": "audio/V01.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.124
+    },
+    {
+      "id": "V02",
+      "field": "庄頭往來",
+      "title": "到市場買菜",
+      "script": "市場裡的菜好多種喔！我們挑幾種來買，裝好後提回家吧。",
+      "need1": "付菜錢",
+      "props1": [
+        "錢"
+      ],
+      "need2": "裝菜帶回家",
+      "props2": [
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 23,
+      "valid_props1": [
+        "T24"
+      ],
+      "valid_props2": [
+        "T16"
+      ],
+      "valid_props": [
+        "T24",
+        "T16"
+      ],
+      "mandarin": "市場裡的菜好多種喔！我們挑幾種來買，裝好後提回家吧。",
+      "hakka": "市場肚个菜當多種，𫣆俚揀幾種來買，裝好提轉屋下。",
+      "pinyin": "sii congˇ duˋ ge coi dongˊ doˊ zungˋ， enˊ liˋ gienˋ giˋ zungˋ loiˇ maiˊ， zongˊ hoˋ tiˇ zonˋ vugˋ kaˊ。",
+      "qty": 1,
+      "audio": "audio/V02.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 7.5736875
+    },
+    {
+      "id": "V03",
+      "field": "庄頭往來",
+      "title": "公園寫生",
+      "script": "你看，公園這棵樹好漂亮喔！幫我把畫紙固定在畫板上，我想把它畫下來。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "game_pairing_status": "老師定稿改變動作或準備狀態，原配對不可直接沿用；本次只修訂錄音稿，未重新核定遊戲配對。",
+      "mandarin": "你看，公園這棵樹好漂亮喔！幫我把畫紙固定在畫板上，我想把它畫下來。",
+      "hakka": "你看，公園這頭樹仔還靚！𢯭手摎畫紙固定在畫板項，𠊎想摎佢畫起來。",
+      "pinyin": "ngiˇ kon， gungˊ ienˇ iaˋ teuˇ su eˋ hanˇ jiangˊ！ ten suˋ lauˊ fa ziiˋ gu tin di fa banˋ hong， ngaiˇ xiongˋ lauˊ giˇ fa hiˋ loiˇ。",
+      "qty": 1,
+      "audio": "audio/V03.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "need1": "把畫紙固定在畫板上",
+      "need2": "把樹畫下來",
+      "props1": [
+        "膠水",
+        "膠帶"
+      ],
+      "props2": [
+        "鉛筆"
+      ],
+      "valid_props1": [
+        "T19",
+        "T22"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T19",
+        "T22",
+        "T27"
+      ],
+      "max_score": 2,
+      "reason": "固定畫紙與畫樹皆是原文明說、尚待完成的兩項工作。膠帶可固定紙邊，膠水也能固定紙張；原文未要求無痕移除，故不能憑新增條件排除膠水。鉛筆可畫樹。尺、剪刀和容器不是此句明說或完成兩項工作所必要的新需求。",
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.3950625
+    },
+    {
+      "id": "V04",
+      "field": "庄頭往來",
+      "title": "到活動中心借書",
+      "script": "活動中心這本書真好看，我要借回家看。先寫下哪天還，再把書裝好帶走。",
+      "need1": "記還書日期",
+      "props1": [
+        "鉛筆"
+      ],
+      "need2": "帶走借書",
+      "props2": [
+        "書包",
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T15",
+        "T16"
+      ],
+      "valid_props": [
+        "T27",
+        "T15",
+        "T16"
+      ],
+      "mandarin": "活動中心這本書真好看，我要借回家看。先寫下哪天還，再把書裝好帶走。",
+      "hakka": "活動中心這本書還生趣，𠊎愛借轉屋下看。哪日愛還先寫起來，正摎書裝好帶走。",
+      "pinyin": "fad tung zungˊ ximˊ iaˋ bunˋ suˊ hanˇ senˊ qi， ngaiˇ oi jia zonˋ vugˋ kaˊ kon。 nai ngidˋ oi vanˇ xienˊ xiaˋ hiˋ loiˇ， zang lauˊ suˊ zongˊ hoˋ dai zeuˋ。",
+      "qty": 1,
+      "audio": "audio/V04.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.9545
+    },
+    {
+      "id": "V05",
+      "field": "庄頭往來",
+      "title": "搭公車還書",
+      "script": "我們搭公車去還書吧，書裝好了嗎？車錢也帶著，別到了車上才找。",
+      "need1": "準備車錢",
+      "props1": [
+        "錢"
+      ],
+      "need2": "帶還書",
+      "props2": [
+        "書包",
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 26,
+      "valid_props1": [
+        "T24"
+      ],
+      "valid_props2": [
+        "T15",
+        "T16"
+      ],
+      "valid_props": [
+        "T24",
+        "T15",
+        "T16"
+      ],
+      "mandarin": "我們搭公車去還書吧，書裝好了嗎？車錢也帶著，別到了車上才找。",
+      "hakka": "𫣆俚坐巴士去還書。書裝好吂？車錢乜帶等，莫到車項正尋。",
+      "pinyin": "enˊ liˋ coˊ ba siiˋ hi vanˇ suˊ。 suˊ zongˊ hoˋ mangˇ？ caˊ qienˇ me dai denˋ， mog do caˊ hong zang qimˇ。",
+      "qty": 1,
+      "audio": "audio/V05.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.2025625
+    },
+    {
+      "id": "V06",
+      "field": "庄頭往來",
+      "title": "夜間散步",
+      "script": "晚上一起出去散步吧。水裝好帶著，也記得準備照明的工具喔。",
+      "need1": "裝水隨身帶",
+      "props1": [
+        "瓶子"
+      ],
+      "need2": "準備照明工具",
+      "props2": [
+        "手電筒"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 25,
+      "valid_props1": [
+        "T32"
+      ],
+      "valid_props2": [
+        "T38"
+      ],
+      "valid_props": [
+        "T32",
+        "T38"
+      ],
+      "mandarin": "晚上一起出去散步吧。水裝好帶著，也記得準備照明的工具喔。",
+      "hakka": "暗晡頭共下出去散步。水裝好帶等，乜愛記得準備照光个傢伙。",
+      "pinyin": "am buˊ teuˇ kiung ha cudˋ hi san pu。 suiˋ zongˊ hoˋ dai denˋ， me oi gi dedˋ zunˋ pi zeu gongˊ ge gaˊ foˋ。",
+      "qty": 1,
+      "audio": "audio/V06.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 8.6025625
+    },
+    {
+      "id": "V07",
+      "field": "庄頭往來",
+      "title": "幫鄰居找小狗",
+      "script": "隔壁的小狗不見了，大家都好擔心。我們寫張紙條貼在外面，請附近的人幫忙找找看吧。",
+      "need1": "寫尋狗消息",
+      "props1": [
+        "鉛筆"
+      ],
+      "need2": "貼公告",
+      "props2": [
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T22"
+      ],
+      "valid_props": [
+        "T27",
+        "T22"
+      ],
+      "mandarin": "隔壁的小狗不見了，大家都好擔心。我們寫張紙條貼在外面，請附近的人幫忙找找看吧。",
+      "hakka": "隔壁个狗仔毋見忒了，大家當愁。𫣆俚寫張紙條貼在外背，請就近个人𢯭手尋看。",
+      "pinyin": "gagˋ biagˋ ge gieuˋ eˋ mˇ gien tedˋ leˊ， tai gaˊ dongˊ seuˇ。 enˊ liˋ xiaˋ zongˊ ziiˋ tiauˇ diabˋ di ngoi boi， qiangˋ qiu kiun ge nginˇ ten suˋ qimˇ kon。",
+      "qty": 1,
+      "audio": "audio/V07.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.276625
+    },
+    {
+      "id": "V08",
+      "field": "庄頭往來",
+      "title": "野餐後收拾",
+      "script": "野餐結束了，這裡也要收乾淨喔。飲料沒喝完的裝好帶回去，垃圾另外裝好一起帶走。",
+      "need1": "裝飲料帶走",
+      "props1": [
+        "瓶子"
+      ],
+      "need2": "另裝垃圾",
+      "props2": [
+        "袋子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 34,
+      "valid_props1": [
+        "T32"
+      ],
+      "valid_props2": [
+        "T16"
+      ],
+      "valid_props": [
+        "T32",
+        "T16"
+      ],
+      "mandarin": "野餐結束了，這裡也要收乾淨喔。飲料沒喝完的裝好帶回去，垃圾另外裝好一起帶走。",
+      "hakka": "野餐好了，這位乜愛收淨來。飲料吂食忒个裝好帶轉去，垃圾另外裝好，共下帶走。",
+      "pinyin": "iaˊ conˊ hoˋ leˊ， iaˋ vi me oi suˊ qiang loiˇ。 imˋ liau mangˇ siid tedˋ ge zongˊ hoˋ dai zonˋ hi， lebˋ sebˋ nang ngoi zongˊ hoˋ， kiung ha dai zeuˋ。",
+      "qty": 1,
+      "audio": "audio/V08.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.491875
+    },
+    {
+      "id": "V09",
+      "field": "庄頭往來",
+      "title": "社區跳繩比賽",
+      "script": "社區跳繩比賽結束了，好累喔！我先擦擦汗，你幫我把剛才跳的次數記下來。",
+      "need1": "記比賽成績",
+      "props1": [
+        "鉛筆"
+      ],
+      "need2": "擦汗",
+      "props2": [
+        "毛巾",
+        "衛生紙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 30,
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T01",
+        "T04"
+      ],
+      "valid_props": [
+        "T27",
+        "T01",
+        "T04"
+      ],
+      "mandarin": "社區跳繩比賽結束了，好累喔！我先擦擦汗，你幫我把剛才跳的次數記下來。",
+      "hakka": "社區跳索仔比賽結束了，還悿！𠊎先捽一下汗，頭先𠊎跳幾多下，你摎𠊎寫起來。",
+      "pinyin": "sa kiˊ tiau sogˋ eˋ biˋ soi giedˋ sugˋ leˊ， hanˇ tiamˋ！ ngaiˇ xienˊ cud idˋ ha hon， teuˇ xienˊ ngaiˇ tiau giˋ doˊ ha， ngiˇ lauˊ ngaiˇ xiaˋ hiˋ loiˇ。",
+      "qty": 1,
+      "audio": "audio/V09.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.266625
+    },
+    {
+      "id": "V10",
+      "field": "庄頭往來",
+      "title": "廟口夾彈珠",
+      "script": "廟口的夾彈珠遊戲看起來好好玩喔！把夾到的彈珠都裝在一起，等一下再數數看有幾顆。",
+      "need1": "夾彈珠",
+      "props1": [
+        "筷子"
+      ],
+      "need2": "收集彈珠",
+      "props2": [
+        "杯子",
+        "碗"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 36,
+      "valid_props1": [
+        "T34"
+      ],
+      "valid_props2": [
+        "T10",
+        "T39"
+      ],
+      "valid_props": [
+        "T34",
+        "T10",
+        "T39"
+      ],
+      "mandarin": "廟口的夾彈珠遊戲看起來好好玩喔！把夾到的彈珠都裝在一起，等一下再數數看有幾顆。",
+      "hakka": "廟坪挾玻璃珠个遊戲，看著盡生趣。挾著个玻璃珠全部共下裝好，等下算看有幾多粒。",
+      "pinyin": "meu piangˇ giabˋ boˊ liˇ zuˊ ge iuˇ hi， kon doˋ qin senˊ qi。 giabˋ doˋ ge boˊ liˇ zuˊ qionˇ pu kiung ha zongˊ hoˋ， denˋ ha son kon iuˊ giˋ doˊ liab。",
+      "qty": 1,
+      "audio": "audio/V10.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "V11",
+      "field": "庄頭往來",
+      "title": "逛市場吃冰",
+      "script": "逛市場逛得好熱喔！我想買碗冰，等買完之後，我們找個地方坐下來慢慢吃。",
+      "need1": "付買冰的錢",
+      "props1": [
+        "錢"
+      ],
+      "need2": "舀冰吃",
+      "props2": [
+        "湯匙"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 30,
+      "valid_props1": [
+        "T24"
+      ],
+      "valid_props2": [
+        "T35"
+      ],
+      "valid_props": [
+        "T24",
+        "T35"
+      ],
+      "mandarin": "逛市場逛得好熱喔！我想買碗冰，等買完之後，我們找個地方坐下來慢慢吃。",
+      "hakka": "行市場行到恁熱，𠊎想買碗冰。買好，𫣆俚尋隻所在坐落去慢慢仔食。",
+      "pinyin": "hangˇ sii congˇ hangˇ do anˋ ngied， ngaiˇ xiongˋ maiˊ vonˋ benˊ。 maiˊ hoˋ， enˊ liˋ qimˇ zagˋ soˋ cai coˊ log hi man man eˋ siid。",
+      "qty": 1,
+      "audio": "audio/V11.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "V12",
+      "field": "庄頭往來",
+      "title": "雨天等公車",
+      "script": "怎麼突然下雨了，公車還沒來耶！先撐傘吧，我趕緊把車錢拿出來，等一下就能直接上車。",
+      "need1": "候車遮雨",
+      "props1": [
+        "雨傘"
+      ],
+      "need2": "付車錢",
+      "props2": [
+        "錢"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T23"
+      ],
+      "valid_props2": [
+        "T24"
+      ],
+      "valid_props": [
+        "T23",
+        "T24"
+      ],
+      "mandarin": "怎麼突然下雨了，公車還沒來耶！先撐傘吧，我趕緊把車錢拿出來，等一下就能直接上車。",
+      "hakka": "仰會忽然間落雨，巴士又還吂來！先擎遮仔，𠊎遽遽摎車錢拿出來，等下就做得直接上車了。",
+      "pinyin": "ngiongˋ voi fudˋ ienˇ gienˊ log iˋ， ba siiˋ iu hanˇ mangˇ loiˇ！ xienˊ kiaˇ zaˊ eˋ， ngaiˇ giagˋ giagˋ lauˊ caˊ qienˇ naˊ cudˋ loiˇ， denˋ ha qiu zo dedˋ ciid jiabˋ songˊ caˊ leˊ。",
+      "qty": 1,
+      "audio": "audio/V12.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C01",
+      "field": "共下做事",
+      "title": "紙人皮影戲",
+      "script": "我們來演皮影戲吧！你把紙上的人物剪下來，我拿光照過去，看看布幕上會出現誰。",
+      "need1": "剪出角色輪廓",
+      "need2": "照出角色的影子",
+      "props1": [
+        "剪刀"
+      ],
+      "props2": [
+        "手電筒"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 33,
+      "kind": "scenario",
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T38"
+      ],
+      "valid_props": [
+        "T21",
+        "T38"
+      ],
+      "mandarin": "我們來演皮影戲吧！你把紙上的人物剪下來，我拿光照過去，看看布幕上會出現誰。",
+      "hakka": "𫣆俚用紙人个影仔來做戲！你摎紙項个人剪出來，𠊎用光照過去，看布幕項會出現麼人。",
+      "pinyin": "enˊ liˋ iung ziiˋ nginˇ ge iangˋ eˋ loiˇ zo hi！ ngiˇ lauˊ ziiˋ hong ge nginˇ jienˋ cudˋ loiˇ， ngaiˇ iung gongˊ zeu go hi， kon bu mogˋ hong voi cudˋ hien maˋ nginˇ。",
+      "qty": 1,
+      "audio": "audio/C01.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C02",
+      "field": "共下做事",
+      "title": "合作做紙橋",
+      "script": "我們的紙橋就差橋面了，你把紙剪好，我來黏，試試看牢不牢固。",
+      "need1": "剪橋面",
+      "props1": [
+        "剪刀"
+      ],
+      "need2": "黏接橋面",
+      "props2": [
+        "膠水",
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 25,
+      "valid_props1": [
+        "T21"
+      ],
+      "valid_props2": [
+        "T19",
+        "T22"
+      ],
+      "valid_props": [
+        "T21",
+        "T19",
+        "T22"
+      ],
+      "mandarin": "我們的紙橋就差橋面了，你把紙剪好，我來黏，試試看牢不牢固。",
+      "hakka": "𫣆俚个紙橋就伸橋面吂做了。你摎紙剪好，𠊎來黏，試看有黏核無。",
+      "pinyin": "enˊ liˋ ge ziiˋ kieuˇ qiu cunˊ kieuˇ mien mangˇ zo leˊ。 ngiˇ lauˊ ziiˋ jienˋ hoˋ， ngaiˇ loiˇ ngiamˇ， cii kon iuˊ ngiamˇ hed moˇ。",
+      "qty": 1,
+      "audio": "audio/C02.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C03",
+      "field": "共下做事",
+      "title": "紙箱投籃遊戲",
+      "script": "來比比看誰投籃比較準。拿個空箱子當籃框，箱子上寫好分數就可以開始了。",
+      "mandarin_characters": 31,
+      "kind": "scenario",
+      "game_pairing_status": "老師定稿改變動作或準備狀態，原配對不可直接沿用；本次只修訂錄音稿，未重新核定遊戲配對。",
+      "mandarin": "來比比看誰投籃比較準。拿個空箱子當籃框，箱子上寫好分數就可以開始了。",
+      "hakka": "來比看麼人投籃較準。拿隻空箱仔來做籃球框，箱仔項寫好分數，𫣆俚就做得開始了。",
+      "pinyin": "loiˇ biˋ kon maˋ nginˇ teuˇ lamˇ ka zunˋ。 naˊ zagˋ kungˊ xiongˊ eˋ loiˇ zo lamˇ kiuˇ kiongˊ， xiongˊ eˋ hong xiaˋ hoˋ funˊ su， enˊ liˋ qiu zo dedˋ koiˊ siiˋ leˊ。",
+      "qty": 1,
+      "audio": "audio/C03.wav",
+      "audio_status": "pending",
+      "need1": "拿空紙箱當籃框",
+      "need2": "在箱子上寫分數",
+      "props1": [
+        "紙箱"
+      ],
+      "props2": [
+        "鉛筆"
+      ],
+      "valid_props1": [
+        "T14"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T14",
+        "T27"
+      ],
+      "max_score": 2,
+      "reason": "原文要求準備空箱子及在箱上標示分數；紙箱與鉛筆分別直接對應。「寫好分數就可以開始」是開始前待完成的條件，與K07已寫好標籤的現成狀態不同。沒有要求剪洞、封箱或量距離，不能新增這些需求。",
+      "pairing_status": "20260918設計試玩配對"
+    },
+    {
+      "id": "C04",
+      "field": "共下做事",
+      "title": "合作種花",
+      "script": "這盆花一起種好嗎？我把土舀進花盆，種好以後，你負責澆水。",
+      "need1": "把土裝進花盆",
+      "need2": "澆水",
+      "props1": [
+        "湯匙",
+        "杯子",
+        "碗"
+      ],
+      "props2": [
+        "瓶子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 24,
+      "kind": "scenario",
+      "valid_props1": [
+        "T35",
+        "T10",
+        "T39"
+      ],
+      "valid_props2": [
+        "T32"
+      ],
+      "valid_props": [
+        "T35",
+        "T10",
+        "T39",
+        "T32"
+      ],
+      "mandarin": "這盆花一起種好嗎？我把土舀進花盆，種好以後，你負責澆水。",
+      "hakka": "這盆花共下來種好無？𠊎摎泥舀落花盆，花種好了，你正負責淋水。",
+      "pinyin": "iaˋ punˇ faˊ kiung ha loiˇ zung hoˋ moˇ？ ngaiˇ lauˊ naiˇ ieuˋ log faˊ punˇ， faˊ zung hoˋ leˊ， ngiˇ zang fu jidˋ limˇ suiˋ。",
+      "qty": 1,
+      "audio": "audio/C04.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C05",
+      "field": "共下做事",
+      "title": "合作擺餐桌",
+      "script": "要開飯囉，來幫忙吧。你把碗擺好，我來擺筷子，等一下就能一起吃了。",
+      "need1": "擺盛飯餐具",
+      "props1": [
+        "碗"
+      ],
+      "need2": "擺夾菜餐具",
+      "props2": [
+        "筷子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 27,
+      "valid_props1": [
+        "T39"
+      ],
+      "valid_props2": [
+        "T34"
+      ],
+      "valid_props": [
+        "T39",
+        "T34"
+      ],
+      "mandarin": "要開飯囉，來幫忙吧。你把碗擺好，我來擺筷子，等一下就能一起吃了。",
+      "hakka": "愛食飯了，來𢯭手。你摎碗排好，𠊎來排筷仔，等下大家就做得共下食了。",
+      "pinyin": "oi siid fan leˊ， loiˇ ten suˋ。 ngiˇ lauˊ vonˋ baiˇ hoˋ， ngaiˇ loiˇ baiˇ kuai eˋ， denˋ ha tai gaˊ qiu zo dedˋ kiung ha siid leˊ。",
+      "qty": 1,
+      "audio": "audio/C05.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C06",
+      "field": "共下做事",
+      "title": "設計尋寶活動",
+      "script": "我們來玩藏寶遊戲吧！地圖我來畫，你把線索紙條摺好，找個地方藏起來。",
+      "kind": "scenario",
+      "mandarin_characters": 29,
+      "game_pairing_status": "老師定稿改變動作或準備狀態，原配對不可直接沿用；本次只修訂錄音稿，未重新核定遊戲配對。",
+      "mandarin": "我們來玩藏寶遊戲吧！地圖我來畫，你把線索紙條摺好，找個地方藏起來。",
+      "hakka": "𫣆俚來搞囥寶物个遊戲。地圖𠊎來畫，你摎線索紙條摺好，尋隻所在囥起來。",
+      "pinyin": "enˊ liˋ loiˇ gauˋ kong boˋ vud ge iuˇ hi。 ti tuˇ ngaiˇ loiˇ fa， ngiˇ lauˊ xien sogˋ ziiˋ tiauˇ zabˋ hoˋ， qimˇ zagˋ soˋ cai kong hiˋ loiˇ。",
+      "qty": 1,
+      "audio": "audio/C06.wav",
+      "audio_status": "pending",
+      "need1": "畫藏寶地圖",
+      "need2": null,
+      "props1": [
+        "鉛筆"
+      ],
+      "props2": [],
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [],
+      "valid_props": [
+        "T27"
+      ],
+      "max_score": 1,
+      "reason": "畫地圖可用鉛筆；摺好線索紙條與找地方藏是明說動作，但可徒手完成，現有20種道具沒有必須投入的對應工具。原文未要求用箱子、袋子、瓶子容納線索，亦未要求黏住或剪紙，因此不硬設第二道具得分需求。玩家可用客語敘述摺藏工作，但此固定道具配對題最多1分。",
+      "pairing_status": "20260918設計試玩配對"
+    },
+    {
+      "id": "C07",
+      "field": "共下做事",
+      "title": "疊高挑戰",
+      "script": "哇，積木疊這麼高喔！快量量看，我記下來，看看最高能疊多高。",
+      "need1": "量積木塔的高度",
+      "need2": "記錄積木塔高度",
+      "props1": [
+        "尺"
+      ],
+      "props2": [
+        "鉛筆"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 24,
+      "kind": "scenario",
+      "valid_props1": [
+        "T31"
+      ],
+      "valid_props2": [
+        "T27"
+      ],
+      "valid_props": [
+        "T31",
+        "T27"
+      ],
+      "mandarin": "哇，積木疊這麼高喔！快量量看，我記下來，看看最高能疊多高。",
+      "hakka": "積木疊到恁高！遽丈一下，𠊎來寫起來，看盡高做得疊到幾高。",
+      "pinyin": "jidˋ mugˋ tiab do anˋ goˊ！ giagˋ cong idˋ ha， ngaiˇ loiˇ xiaˋ hiˋ loiˇ， kon qin goˊ zo dedˋ tiab do giˋ goˊ。",
+      "qty": 1,
+      "audio": "audio/C07.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.29525
+    },
+    {
+      "id": "C08",
+      "field": "共下做事",
+      "title": "騎掃把演戲",
+      "script": "等一下演戲，我要騎掃把飛出來耶！舞台太暗了，你幫我把燈光照亮些，大家才能看見我。",
+      "need1": "準備飛行坐騎",
+      "need2": "舞臺打光",
+      "props1": [
+        "掃把"
+      ],
+      "props2": [
+        "手電筒"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 35,
+      "kind": "scenario",
+      "valid_props1": [
+        "T05"
+      ],
+      "valid_props2": [
+        "T38"
+      ],
+      "valid_props": [
+        "T05",
+        "T38"
+      ],
+      "mandarin": "等一下演戲，我要騎掃把飛出來耶！舞台太暗了，你幫我把燈光照亮些，大家才能看見我。",
+      "hakka": "等下做戲，𠊎愛騎掃把飛出來！戲臺忒暗，你摎𠊎照較光兜，大家正看得著𠊎。",
+      "pinyin": "denˋ ha zo hi， ngaiˇ oi kiˇ so baˋ biˊ cudˋ loiˇ！ hi toiˇ tedˋ am， ngiˇ lauˊ ngaiˇ zeu ka gongˊ deuˊ， tai gaˊ zang kon dedˋ doˋ ngaiˇ。",
+      "qty": 1,
+      "audio": "audio/C08.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C09",
+      "field": "共下做事",
+      "title": "雨中護送紙船",
+      "script": "糟了，下雨了！我們的紙船還要送去展覽呢。你撐傘幫紙船擋雨，我把這幾艘一起端過去。",
+      "need1": "遮雨保護紙船",
+      "props1": [
+        "雨傘"
+      ],
+      "need2": "端送紙船",
+      "props2": [
+        "托盤",
+        "紙箱"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "kind": "scenario",
+      "mandarin_characters": 35,
+      "valid_props1": [
+        "T23"
+      ],
+      "valid_props2": [
+        "T18",
+        "T14"
+      ],
+      "valid_props": [
+        "T23",
+        "T18",
+        "T14"
+      ],
+      "mandarin": "糟了，下雨了！我們的紙船還要送去展覽呢。你撐傘幫紙船擋雨，我把這幾艘一起端過去。",
+      "hakka": "壞了，落雨了！𫣆俚个紙船還愛送去展覽。你擎遮仔摎紙船遮雨，𠊎摎這幾隻共下兜過去。",
+      "pinyin": "fai leˊ， log iˋ leˊ！ enˊ liˋ ge ziiˋ sonˇ hanˇ oi sung hi zanˋ lam。 ngiˇ kiaˇ zaˊ eˋ lauˊ ziiˋ sonˇ zaˊ iˋ， ngaiˇ lauˊ iaˋ giˋ zagˋ kiung ha deuˊ go hi。",
+      "qty": 1,
+      "audio": "audio/C09.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C10",
+      "field": "共下做事",
+      "title": "捐書打包",
+      "script": "這些書送到學校，就有更多小朋友可以看了，我來裝箱，你把箱子封好，我們一起搬過去。",
+      "need1": "把要送到學校的書裝箱",
+      "need2": "封牢箱口",
+      "props1": [
+        "紙箱"
+      ],
+      "props2": [
+        "膠帶"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 35,
+      "kind": "scenario",
+      "valid_props1": [
+        "T14"
+      ],
+      "valid_props2": [
+        "T22"
+      ],
+      "valid_props": [
+        "T14",
+        "T22"
+      ],
+      "mandarin": "這些書送到學校，就有更多小朋友可以看了，我來裝箱，你把箱子封好，我們一起搬過去。",
+      "hakka": "這兜書送去學校，就有還較多細人仔有好看。𠊎來裝箱，你摎箱仔封好，𫣆俚共下搬過去。",
+      "pinyin": "iaˋ deuˊ suˊ sung hi hog gauˋ， qiu iuˊ hanˇ ka doˊ se nginˇ eˋ iuˊ hoˋ kon。 ngaiˇ loiˇ zongˊ xiongˊ， ngiˇ lauˊ xiongˊ eˋ fungˊ hoˋ， enˊ liˋ kiung ha banˊ go hi。",
+      "qty": 1,
+      "audio": "audio/C10.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C11",
+      "field": "共下做事",
+      "title": "合作端水",
+      "script": "一起來裝水吧，你把杯子裝滿水，我端過去，看能不能一滴都不灑出來。",
+      "need1": "把水裝進杯子",
+      "need2": "平穩端運裝水的杯子",
+      "props1": [
+        "瓶子",
+        "杯子",
+        "碗"
+      ],
+      "props2": [
+        "托盤",
+        "杯子"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 28,
+      "kind": "scenario",
+      "valid_props1": [
+        "T32",
+        "T10",
+        "T39"
+      ],
+      "valid_props2": [
+        "T18",
+        "T10"
+      ],
+      "valid_props": [
+        "T32",
+        "T10",
+        "T39",
+        "T18"
+      ],
+      "pairing_note": "新版不限制杯數、一次端運或終點。托盤與直接持杯皆可用於端運，因此此項亦接受杯子；每張實體牌仍只能分配一項需求。",
+      "mandarin": "一起來裝水吧，你把杯子裝滿水，我端過去，看能不能一滴都不灑出來。",
+      "hakka": "共下來裝水。你摎杯仔裝淰水，𠊎兜過去，看做得一滴都無激出來無。",
+      "pinyin": "kiung ha loiˇ zongˊ suiˋ。 ngiˇ lauˊ biˊ eˋ zongˊ nemˊ suiˋ， ngaiˇ deuˊ go hi， kon zo dedˋ idˋ didˋ du moˇ gieb cudˋ loiˇ moˇ。",
+      "qty": 1,
+      "audio": "audio/C11.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "C12",
+      "field": "共下做事",
+      "title": "自製桌遊",
+      "script": "我們來做一個桌遊吧！我畫棋盤，你剪遊戲卡，做好了就找朋友一起玩。",
+      "need1": "畫棋盤",
+      "need2": "剪遊戲卡",
+      "props1": [
+        "鉛筆"
+      ],
+      "props2": [
+        "剪刀"
+      ],
+      "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。",
+      "mandarin_characters": 28,
+      "kind": "scenario",
+      "valid_props1": [
+        "T27"
+      ],
+      "valid_props2": [
+        "T21"
+      ],
+      "valid_props": [
+        "T27",
+        "T21"
+      ],
+      "mandarin": "我們來做一個桌遊吧！我畫棋盤，你剪遊戲卡，做好了就找朋友一起玩。",
+      "hakka": "𫣆俚來做隻在桌頂搞个遊戲！𠊎畫棋盤，你剪遊戲卡片，做好就尋朋友共下搞。",
+      "pinyin": "enˊ liˋ loiˇ zo zagˋ di zogˋ dangˋ gauˋ ge iuˇ hi！ ngaiˇ fa kiˇ panˇ， ngiˇ jienˋ iuˇ hi kaˋ pienˋ， zo hoˋ qiu qimˇ penˇ iuˊ kiung ha gauˋ。",
+      "qty": 1,
+      "audio": "audio/C12.wav",
+      "audio_status": "pending",
+      "max_score": 2
+    },
+    {
+      "id": "T01",
+      "kind": "prop",
+      "name": "毛巾",
+      "qty": 2,
+      "script": "毛巾。流好多汗喔，拿來擦一擦。",
+      "mandarin_characters": 12,
+      "mandarin": "毛巾。流好多汗喔，拿來擦一擦。",
+      "hakka": "毛巾。流恁多汗，拿來捽一下。",
+      "pinyin": "moˊ ginˊ。 lauˇ anˋ doˊ hon， naˊ loiˇ cud idˋ ha。",
+      "audio": "audio/T01.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 4.9289375
+    },
+    {
+      "id": "T04",
+      "kind": "prop",
+      "name": "衛生紙",
+      "qty": 2,
+      "script": "衛生紙。嘴巴還黏著餅乾屑呢，擦一下吧。",
+      "mandarin_characters": 16,
+      "mandarin": "衛生紙。嘴巴還黏著餅乾屑呢，擦一下吧。",
+      "hakka": "衛生紙。嘴項還黏等餅仔屑，捽一下。",
+      "pinyin": "vi senˊ ziiˋ。 zoi hong hanˇ ngiamˇ denˋ biangˋ eˋ sebˋ， cud idˋ ha。",
+      "audio": "audio/T04.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.8094375
+    },
+    {
+      "id": "T05",
+      "kind": "prop",
+      "name": "掃把",
+      "qty": 1,
+      "script": "掃把。地上這麼多紙屑，我來掃一掃。",
+      "mandarin_characters": 14,
+      "mandarin": "掃把。地上這麼多紙屑，我來掃一掃。",
+      "hakka": "掃把。地泥恁多碎紙，𠊎來掃一下。",
+      "pinyin": "so baˋ。 ti naiˇ anˋ doˊ sui ziiˋ， ngaiˇ loiˇ so idˋ ha。",
+      "audio": "audio/T05.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.27975
+    },
+    {
+      "id": "T10",
+      "kind": "prop",
+      "name": "杯子",
+      "qty": 2,
+      "script": "杯子。倒點水給我吧，好渴喔。",
+      "mandarin_characters": 11,
+      "mandarin": "杯子。倒點水給我吧，好渴喔。",
+      "hakka": "杯仔。摎𠊎倒兜水，𠊎還嘴燥。",
+      "pinyin": "biˊ eˋ。 lauˊ ngaiˇ doˋ deuˊ suiˋ， ngaiˇ hanˇ zoi zauˊ。",
+      "audio": "audio/T10.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 4.9754375
+    },
+    {
+      "id": "T14",
+      "kind": "prop",
+      "name": "紙箱",
+      "qty": 2,
+      "script": "紙箱。書放這裡面，搬起來比較方便。",
+      "mandarin_characters": 14,
+      "mandarin": "紙箱。書放這裡面，搬起來比較方便。",
+      "hakka": "紙箱仔。書放這肚，搬起來較方便。",
+      "pinyin": "ziiˋ xiongˊ eˋ。 suˊ biong iaˋ duˋ， banˊ hiˋ loiˇ ka fongˊ pien。",
+      "audio": "audio/T14.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.5210625
+    },
+    {
+      "id": "T15",
+      "kind": "prop",
+      "name": "書包",
+      "qty": 1,
+      "script": "書包。課本都裝好了，上學去囉。",
+      "mandarin_characters": 12,
+      "mandarin": "書包。課本都裝好了，上學去囉。",
+      "hakka": "書包仔。課本都裝好了，來去讀書。",
+      "pinyin": "suˊ bauˊ eˋ。 ko bunˋ du zongˊ hoˋ leˊ， loiˇ hi tug suˊ。",
+      "audio": "audio/T15.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.3425625
+    },
+    {
+      "id": "T16",
+      "kind": "prop",
+      "name": "袋子",
+      "qty": 2,
+      "script": "袋子。東西買好了，裝袋一起帶走吧。",
+      "mandarin_characters": 15,
+      "mandarin": "袋子。東西買好了，裝袋一起帶走吧。",
+      "hakka": "袋仔。東西買好了，裝入袋仔共下帶走。",
+      "pinyin": "toi eˋ。 dungˊ xiˊ maiˊ hoˋ leˊ， zongˊ ngib toi eˋ kiung ha dai zeuˋ。",
+      "audio": "audio/T16.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.9178125
+    },
+    {
+      "id": "T18",
+      "kind": "prop",
+      "name": "托盤",
+      "qty": 2,
+      "script": "托盤。這幾杯飲料放上來，我一次端過去。",
+      "mandarin_characters": 16,
+      "mandarin": "托盤。這幾杯飲料放上來，我一次端過去。",
+      "hakka": "托盤。這幾杯飲料放上來，𠊎一到兜過去。",
+      "pinyin": "togˋ panˇ。 iaˋ giˋ biˊ imˋ liau biong songˊ loiˇ， ngaiˇ idˋ do deuˊ go hi。",
+      "audio": "audio/T18.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 6.0643125
+    },
+    {
+      "id": "T19",
+      "kind": "prop",
+      "name": "膠水",
+      "qty": 2,
+      "script": "膠水。照片翹起來了，幫我黏一下吧。",
+      "mandarin_characters": 16,
+      "mandarin": "膠水。照片翹起來了，幫我黏一下吧。",
+      "hakka": "膠水。相片翹起來了，摎𠊎黏一下。",
+      "pinyin": "gauˊ suiˋ。 xiong pienˋ kieu hiˋ loiˇ leˊ， lauˊ ngaiˇ ngiamˇ idˋ ha。",
+      "audio": "audio/T19.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.51925
+    },
+    {
+      "id": "T21",
+      "kind": "prop",
+      "name": "剪刀",
+      "qty": 2,
+      "script": "剪刀。這張紙太大了，剪成兩半吧。",
+      "mandarin_characters": 13,
+      "mandarin": "剪刀。這張紙太大了，剪成兩半吧。",
+      "hakka": "鉸刀。這張紙忒大，來摎佢對半剪開。",
+      "pinyin": "gau doˊ。 iaˋ zongˊ ziiˋ tedˋ tai， loiˇ lauˊ giˇ dui ban jienˋ koiˊ。",
+      "audio": "audio/T21.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.9318125
+    },
+    {
+      "id": "T22",
+      "kind": "prop",
+      "name": "膠帶",
+      "qty": 2,
+      "script": "膠帶。箱子裝滿了，開口封起來吧。",
+      "mandarin_characters": 13,
+      "mandarin": "膠帶。箱子裝滿了，開口封起來吧。",
+      "hakka": "膠帶。箱仔裝淰了，來摎口封好。",
+      "pinyin": "gauˊ dai。 xiongˊ eˋ zongˊ nemˊ leˊ， loiˇ lauˊ heuˋ fungˊ hoˋ。",
+      "audio": "audio/T22.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.25625
+    },
+    {
+      "id": "T23",
+      "kind": "prop",
+      "name": "雨傘",
+      "qty": 1,
+      "script": "雨傘。外面下雨了，撐開傘一起走吧。",
+      "mandarin_characters": 13,
+      "mandarin": "雨傘。外面下雨了，撐開傘一起走吧。",
+      "hakka": "遮仔。外背落雨了，摎遮仔擎開來，𫣆俚共下行。",
+      "pinyin": "zaˊ eˋ。 ngoi boi log iˋ leˊ， lauˊ zaˊ eˋ kiaˇ koiˊ loiˇ， enˊ liˋ kiung ha hangˇ。",
+      "audio": "audio/T23.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 7.172625
+    },
+    {
+      "id": "T24",
+      "kind": "prop",
+      "name": "錢",
+      "qty": 2,
+      "script": "錢。我想買這個，錢給你囉。",
+      "mandarin_characters": 10,
+      "mandarin": "錢。我想買這個，錢給你囉。",
+      "hakka": "錢。𠊎想買這隻，錢分你。",
+      "pinyin": "qienˇ。 ngaiˇ xiongˋ maiˊ iaˋ zagˋ， qienˇ bunˊ ngiˇ。",
+      "audio": "audio/T24.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 4.3338125
+    },
+    {
+      "id": "T27",
+      "kind": "prop",
+      "name": "鉛筆",
+      "qty": 1,
+      "script": "鉛筆。我知道答案了耶，我來寫。",
+      "mandarin_characters": 12,
+      "mandarin": "鉛筆。我知道答案了耶，我來寫。",
+      "hakka": "鉛筆。𠊎知答案了，𠊎來寫。",
+      "pinyin": "ienˇ bidˋ。 ngaiˇ diˊ dabˋ on leˊ， ngaiˇ loiˇ xiaˋ。",
+      "audio": "audio/T27.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 4.3635
+    },
+    {
+      "id": "T31",
+      "kind": "prop",
+      "name": "尺",
+      "qty": 2,
+      "script": "尺。這本書到底多長？量一下就知道了。",
+      "mandarin_characters": 15,
+      "mandarin": "尺。這本書到底多長？量一下就知道了。",
+      "hakka": "尺。這本書到底有幾長？丈一下就知了。",
+      "pinyin": "cagˋ。 iaˋ bunˋ suˊ do daiˋ iuˊ giˋ congˇ？ cong idˋ ha qiu diˊ leˊ。",
+      "audio": "audio/T31.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.857375
+    },
+    {
+      "id": "T32",
+      "kind": "prop",
+      "name": "瓶子",
+      "qty": 2,
+      "script": "瓶子。裝點水帶著，渴了就有得喝。",
+      "mandarin_characters": 13,
+      "mandarin": "瓶子。裝點水帶著，渴了就有得喝。",
+      "hakka": "盎仔。裝兜水帶等，嘴燥就有好食。",
+      "pinyin": "angˊ eˋ。 zongˊ deuˊ suiˋ dai denˋ， zoi zauˊ qiu iuˊ hoˋ siid。",
+      "audio": "audio/T32.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.6358125
+    },
+    {
+      "id": "T34",
+      "kind": "prop",
+      "name": "筷子",
+      "qty": 2,
+      "script": "筷子。這道菜很好吃，你也夾一點吃吃看。",
+      "mandarin_characters": 16,
+      "mandarin": "筷子。這道菜很好吃，你也夾一點吃吃看。",
+      "hakka": "筷仔。這菜盡好食，你乜挾兜食看。",
+      "pinyin": "kuai eˋ。 iaˋ coi qin hoˋ siid， ngiˇ me giabˋ deuˊ siid kon。",
+      "audio": "audio/T34.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 5.303375
+    },
+    {
+      "id": "T35",
+      "kind": "prop",
+      "name": "湯匙",
+      "qty": 2,
+      "script": "湯匙。湯煮好了，舀一點來喝吧。",
+      "mandarin_characters": 12,
+      "mandarin": "湯匙。湯煮好了，舀一點來喝吧。",
+      "hakka": "湯匙。湯煮好了，來舀兜食。",
+      "pinyin": "tongˊ ciiˇ。 tongˊ zuˋ hoˋ leˊ， loiˇ ieuˋ deuˊ siid。",
+      "audio": "audio/T35.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 4.63525
+    },
+    {
+      "id": "T38",
+      "kind": "prop",
+      "name": "手電筒",
+      "qty": 2,
+      "script": "手電筒。前面黑黑的，來，我照給你看。",
+      "mandarin_characters": 14,
+      "mandarin": "手電筒。前面黑黑的，來，我照給你看。",
+      "hakka": "手電筒仔。頭前暗暗，來，𠊎照分你看。",
+      "pinyin": "suˋ tien tungˇ eˋ。 teuˇ qienˇ am am， loiˇ， ngaiˇ zeu bunˊ ngiˇ kon。",
+      "audio": "audio/T38.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 6.8770625
+    },
+    {
+      "id": "T39",
+      "kind": "prop",
+      "name": "碗",
+      "qty": 2,
+      "script": "碗。飯都盛好了，來吃吧。",
+      "mandarin_characters": 9,
+      "mandarin": "碗。飯都盛好了，來吃吧。",
+      "hakka": "碗。飯裝好了，來食。",
+      "pinyin": "vonˋ。 fan zongˊ hoˋ leˊ， loiˇ siid。",
+      "audio": "audio/T39.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 3.7525
+    },
+    {
+      "id": "F01",
+      "name": "借過一下",
+      "qty": 6,
+      "script": "借過一下喔，讓我過去。",
+      "effect": "將自己的一枚棋子，移到上下左右相鄰的一張地圖卡。",
+      "limit": "目的地未滿兩枚棋子，且沒有自己的棋子。來源地的其他棋子不動。",
+      "kind": "spell",
+      "mandarin_characters": 9,
+      "mandarin": "借過一下喔，讓我過去。",
+      "hakka": "借過一下，分𠊎過去。",
+      "pinyin": "jia go idˋ ha， bunˊ ngaiˇ go hi。",
+      "audio": "audio/F01.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 2.9774375
+    },
+    {
+      "id": "F02",
+      "name": "換個位置",
+      "qty": 4,
+      "script": "我們換個位置好不好？",
+      "effect": "選自己的一枚棋子，與上下左右相鄰地圖上的一枚對手棋子，同時交換位置。",
+      "limit": "交換後，每張地圖都不能有兩枚同色棋子。原本已滿的地圖也能交換；只交換兩枚棋子。 口令採問句語氣，施放後依上述效果交換，不另設對手同意或拒絕的步驟。",
+      "kind": "spell",
+      "mandarin_characters": 9,
+      "mandarin": "我們換個位置好不好？",
+      "hakka": "𫣆俚換隻位好無？",
+      "pinyin": "enˊ liˋ von zagˋ vi hoˋ moˇ？",
+      "audio": "audio/F02.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 1.7015625
+    },
+    {
+      "id": "F03",
+      "name": "請你移一下",
+      "qty": 2,
+      "script": "你往那邊移一下啦。",
+      "effect": "選一枚對手棋子，將它移到上下左右相鄰的一張地圖卡，由施法者決定目的地。",
+      "limit": "目的地未滿兩枚棋子，且沒有該對手的棋子。不得移出地圖範圍，也不得直接移除棋子。",
+      "kind": "spell",
+      "mandarin_characters": 8,
+      "mandarin": "你往那邊移一下啦。",
+      "hakka": "你徙過該片一下。",
+      "pinyin": "ngiˇ saiˋ go ge pienˋ idˋ ha。",
+      "audio": "audio/F03.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 1.7349375
+    },
+    {
+      "id": "F04",
+      "name": "再給我兩張",
+      "qty": 6,
+      "script": "再給我兩張牌吧。",
+      "effect": "從道具牌庫抽兩張道具牌，加入自己的手牌。",
+      "limit": "只能抽道具牌；道具無持有上限。牌庫不足就抽剩餘張數，不補欠。",
+      "kind": "spell",
+      "mandarin_characters": 7,
+      "mandarin": "再給我兩張牌吧。",
+      "hakka": "過分𠊎兩張牌好無？",
+      "pinyin": "go bunˊ ngaiˇ liongˋ zongˊ paiˇ hoˋ moˇ？",
+      "audio": "audio/F04.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 2.014125
+    },
+    {
+      "id": "F05",
+      "name": "換些工具",
+      "qty": 3,
+      "script": "這幾張我想換掉。",
+      "effect": "先把自己的一至三張道具牌放回道具牌庫底，再從牌庫頂抽相同張數。",
+      "limit": "至少換一張；不能換功能卡，也不能先看新牌。牌庫很短時，可能抽回剛放到底部的牌。",
+      "kind": "spell",
+      "mandarin_characters": 7,
+      "mandarin": "這幾張我想換掉。",
+      "hakka": "這幾張，𠊎想換忒。",
+      "pinyin": "iaˋ giˋ zongˊ， ngaiˇ xiongˋ von tedˋ。",
+      "audio": "audio/F05.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 2.842375
+    },
+    {
+      "id": "F06",
+      "name": "這次我先",
+      "qty": 3,
+      "script": "這次讓我先啦。",
+      "effect": "本輪爭取落子位置時，如果自己完成的需求數與其他玩家相同，自己優先。",
+      "limit": "每位玩家每項需求最多計1項，共0至2項。不能超越完成需求更多的玩家；未完成任何需求，或該地圖已有自己的棋子，都不能因此落子。",
+      "kind": "spell",
+      "mandarin_characters": 6,
+      "mandarin": "這次讓我先啦。",
+      "hakka": "這擺分𠊎先好無？",
+      "pinyin": "iaˋ baiˋ bunˊ ngaiˇ xienˊ hoˋ moˇ？",
+      "audio": "audio/F06.wav",
+      "audio_status": "generated_ai_unreviewed",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 1.8263125
+    }
+  ],
+  "design_policy": {
+    "mapping": "各題依尚待完成的活動列出1至2項可計分需求及可用道具；已完成或無須道具的工作不新增得分需求。",
+    "scoring": "每人最多出兩張道具，每張只分配一項需求；同一需求最多計一次。按題目列出1至2項需求，上限為本題需求數，全員同標準。",
+    "props": "道具手牌無上限，使用後放牌庫底；牌庫不足時只抽現有牌。",
+    "functions": "功能牌手牌上限2張，本輪選圖玩家選圖前最多施放1張，念出客語口令後生效。",
+    "creativity": "學生可自由說明使用方式；計分依預先公布於揭曉頁的本題卡號，不另評創意或口語表演優劣。",
+    "manufacture": "卡圖為常見杯、碗、托盤及紙箱；袋子為可封口的泛用塑膠袋，尺寸依情境，不限定食品袋；各情境使用各自乾淨的袋子。瓶子為可旋緊瓶蓋的飲用水瓶。",
+    "language": "依生活情境的動機、說話者與聽話者撰稿；六腔理解意思後各自重述，不以華語字序逐字替換。保留清楚的兩項活動需求，口語自然優先於不提道具名稱。音標以詞目本調標示，連讀由顧問試讀審訂。",
+    "balance": "逐卡列出題庫適用次數；不能將適用次數宣稱為實際出牌率。較廣用的鉛筆與少數窄用卡各1張，其餘2張，作試玩起始配置。"
+  },
+  "audit": {
+    "scenes": 60,
+    "props": 20,
+    "spells": 6,
+    "physical_map_cards": 60,
+    "physical_prop_cards": 36,
+    "physical_function_cards": 24,
+    "physical_total_cards": 120,
+    "scene_characters": {
+      "min": 22,
+      "max": 39,
+      "mean": 29.1,
+      "counting_rule": "逐字計算華語漢字數，不含標點"
+    },
+    "revised_scene_count": 60,
+    "revised_prop_count": 20,
+    "revised_spell_count": 6
+  },
+  "pairing_changes": [
+    {
+      "id": "H04",
+      "before": {
+        "need1": "分裝零食",
+        "need2": "端送飲料",
+        "props1": [
+          "杯子",
+          "碗",
+          "袋子"
+        ],
+        "props2": [
+          "托盤",
+          "杯子"
+        ],
+        "valid_props1": [
+          "T10",
+          "T39",
+          "T16"
+        ],
+        "valid_props2": [
+          "T18",
+          "T10"
+        ],
+        "valid_props": [
+          "T10",
+          "T39",
+          "T16",
+          "T18"
+        ],
+        "max_score": null,
+        "reason": "依本題明說的工作配對；自由敘述可換說法，但不新增得分需求。"
+      },
+      "after": {
+        "need1": "把飲料端過來",
+        "need2": null,
+        "props1": [
+          "托盤",
+          "杯子"
+        ],
+        "props2": [],
+        "valid_props1": [
+          "T18",
+          "T10"
+        ],
+        "valid_props2": [],
+        "valid_props": [
+          "T18",
+          "T10"
+        ],
+        "max_score": 1,
+        "reason": "零食已分裝完成，不再計分；端飲料只算一項需求。"
+      }
+    },
+    {
+      "id": "K03",
+      "before": {
+        "need1": null,
+        "need2": null,
+        "props1": null,
+        "props2": null,
+        "valid_props1": null,
+        "valid_props2": null,
+        "valid_props": null,
+        "max_score": null,
+        "reason": null
+      },
+      "after": {
+        "need1": "把火腿剪成眼睛與嘴巴",
+        "need2": "把剪好的火腿擺到飯糰上",
+        "props1": [
+          "剪刀"
+        ],
+        "props2": [
+          "筷子"
+        ],
+        "valid_props1": [
+          "T21"
+        ],
+        "valid_props2": [
+          "T34"
+        ],
+        "valid_props": [
+          "T21",
+          "T34"
+        ],
+        "max_score": 2,
+        "reason": "原文明說剪出形狀與貼上飯糰兩項未完成動作；剪刀對應剪火腿，筷子可夾取、擺放小片火腿完成表情。擺放屬原文貼上的實際動作，沒有新增包裝或黏著程序。眼睛與嘴巴合併為同一擺放需求，不重複得分；食品本身可附著，不使用文具黏著劑。"
+      }
+    },
+    {
+      "id": "K04",
+      "before": {
+        "need1": null,
+        "need2": null,
+        "props1": null,
+        "props2": null,
+        "valid_props1": null,
+        "valid_props2": null,
+        "valid_props": null,
+        "max_score": null,
+        "reason": null
+      },
+      "after": {
+        "need1": "把剩菜裝入適合盛食物的容器",
+        "need2": null,
+        "props1": [
+          "碗"
+        ],
+        "props2": [],
+        "valid_props1": [
+          "T39"
+        ],
+        "valid_props2": [],
+        "valid_props": [
+          "T39"
+        ],
+        "max_score": 1,
+        "reason": "原文的未完成工作是把剩菜裝好再放冰箱；現有道具中以碗作盛裝容器，這一連續保存工作計1項需求。「夾菜」或「舀菜」可能是完成工作的方式，但原文沒有另立分菜或特定取菜要求，不再設第二得分需求。放進冰箱可直接用手，不能再以搬運工具加分。為本次最精簡固定答案，採通常用來盛熟食的碗；未另外假設袋子為食品保鮮袋、瓶子廣口或杯子容量。"
+      }
+    },
+    {
+      "id": "K07",
+      "before": {
+        "need1": null,
+        "need2": null,
+        "props1": null,
+        "props2": null,
+        "valid_props1": null,
+        "valid_props2": null,
+        "valid_props": null,
+        "max_score": null,
+        "reason": null
+      },
+      "after": {
+        "need1": "把已寫好名稱的紙貼到對應罐子上",
+        "need2": null,
+        "props1": [
+          "膠水",
+          "膠帶"
+        ],
+        "props2": [],
+        "valid_props1": [
+          "T19",
+          "T22"
+        ],
+        "valid_props2": [],
+        "valid_props": [
+          "T19",
+          "T22"
+        ],
+        "max_score": 1,
+        "reason": "「寫好名字的紙」已存在，剩下的是黏貼標籤。膠水或膠帶均能完成同一黏貼需求。兩個罐子及兩張標籤仍屬同一需求，最多1分；寫字、剪紙及重新分裝均不能加分。"
+      }
+    },
+    {
+      "id": "V03",
+      "before": {
+        "need1": null,
+        "need2": null,
+        "props1": null,
+        "props2": null,
+        "valid_props1": null,
+        "valid_props2": null,
+        "valid_props": null,
+        "max_score": null,
+        "reason": null
+      },
+      "after": {
+        "need1": "把畫紙固定在畫板上",
+        "need2": "把樹畫下來",
+        "props1": [
+          "膠水",
+          "膠帶"
+        ],
+        "props2": [
+          "鉛筆"
+        ],
+        "valid_props1": [
+          "T19",
+          "T22"
+        ],
+        "valid_props2": [
+          "T27"
+        ],
+        "valid_props": [
+          "T19",
+          "T22",
+          "T27"
+        ],
+        "max_score": 2,
+        "reason": "固定畫紙與畫樹皆是原文明說、尚待完成的兩項工作。膠帶可固定紙邊，膠水也能固定紙張；原文未要求無痕移除，故不能憑新增條件排除膠水。鉛筆可畫樹。尺、剪刀和容器不是此句明說或完成兩項工作所必要的新需求。"
+      }
+    },
+    {
+      "id": "C03",
+      "before": {
+        "need1": null,
+        "need2": null,
+        "props1": null,
+        "props2": null,
+        "valid_props1": null,
+        "valid_props2": null,
+        "valid_props": null,
+        "max_score": null,
+        "reason": null
+      },
+      "after": {
+        "need1": "拿空紙箱當籃框",
+        "need2": "在箱子上寫分數",
+        "props1": [
+          "紙箱"
+        ],
+        "props2": [
+          "鉛筆"
+        ],
+        "valid_props1": [
+          "T14"
+        ],
+        "valid_props2": [
+          "T27"
+        ],
+        "valid_props": [
+          "T14",
+          "T27"
+        ],
+        "max_score": 2,
+        "reason": "原文要求準備空箱子及在箱上標示分數；紙箱與鉛筆分別直接對應。「寫好分數就可以開始」是開始前待完成的條件，與K07已寫好標籤的現成狀態不同。沒有要求剪洞、封箱或量距離，不能新增這些需求。"
+      }
+    },
+    {
+      "id": "C06",
+      "before": {
+        "need1": null,
+        "need2": null,
+        "props1": null,
+        "props2": null,
+        "valid_props1": null,
+        "valid_props2": null,
+        "valid_props": null,
+        "max_score": null,
+        "reason": null
+      },
+      "after": {
+        "need1": "畫藏寶地圖",
+        "need2": null,
+        "props1": [
+          "鉛筆"
+        ],
+        "props2": [],
+        "valid_props1": [
+          "T27"
+        ],
+        "valid_props2": [],
+        "valid_props": [
+          "T27"
+        ],
+        "max_score": 1,
+        "reason": "畫地圖可用鉛筆；摺好線索紙條與找地方藏是明說動作，但可徒手完成，現有20種道具沒有必須投入的對應工具。原文未要求用箱子、袋子、瓶子容納線索，亦未要求黏住或剪紙，因此不硬設第二道具得分需求。玩家可用客語敘述摺藏工作，但此固定道具配對題最多1分。"
+      }
+    }
+  ]
+}
