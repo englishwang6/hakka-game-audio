@@ -1777,8 +1777,11 @@ window.CARD_DATA = {
       "pinyin": "meu piangˇ giabˋ boˊ liˇ zuˊ ge iuˇ hi， kon doˋ qin senˊ qi。 giabˋ doˋ ge boˊ liˇ zuˊ qionˇ pu kiung ha zongˊ hoˋ， denˋ ha son kon iuˊ giˋ doˊ liab。",
       "qty": 1,
       "audio": "audio/V10.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.3224375
     },
     {
       "id": "V11",
@@ -1811,8 +1814,11 @@ window.CARD_DATA = {
       "pinyin": "hangˇ sii congˇ hangˇ do anˋ ngied， ngaiˇ xiongˋ maiˊ vonˋ benˊ。 maiˊ hoˋ， enˊ liˋ qimˇ zagˋ soˋ cai coˊ log hi man man eˋ siid。",
       "qty": 1,
       "audio": "audio/V11.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.7226875
     },
     {
       "id": "V12",
@@ -1845,8 +1851,11 @@ window.CARD_DATA = {
       "pinyin": "ngiongˋ voi fudˋ ienˇ gienˊ log iˋ， ba siiˋ iu hanˇ mangˇ loiˇ！ xienˊ kiaˇ zaˊ eˋ， ngaiˇ giagˋ giagˋ lauˊ caˊ qienˇ naˊ cudˋ loiˇ， denˋ ha qiu zo dedˋ ciid jiabˋ songˊ caˊ leˊ。",
       "qty": 1,
       "audio": "audio/V12.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 13.089125
     },
     {
       "id": "C01",
@@ -1879,8 +1888,11 @@ window.CARD_DATA = {
       "pinyin": "enˊ liˋ iung ziiˋ nginˇ ge iangˋ eˋ loiˇ zo hi！ ngiˇ lauˊ ziiˋ hong ge nginˇ jienˋ cudˋ loiˇ， ngaiˇ iung gongˊ zeu go hi， kon bu mogˋ hong voi cudˋ hien maˋ nginˇ。",
       "qty": 1,
       "audio": "audio/C01.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.767375
     },
     {
       "id": "C02",
@@ -1916,8 +1928,11 @@ window.CARD_DATA = {
       "pinyin": "enˊ liˋ ge ziiˋ kieuˇ qiu cunˊ kieuˇ mien mangˇ zo leˊ。 ngiˇ lauˊ ziiˋ jienˋ hoˋ， ngaiˇ loiˇ ngiamˇ， cii kon iuˊ ngiamˇ hed moˇ。",
       "qty": 1,
       "audio": "audio/C02.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.6995
     },
     {
       "id": "C03",
@@ -1932,7 +1947,7 @@ window.CARD_DATA = {
       "pinyin": "loiˇ biˋ kon maˋ nginˇ teuˇ lamˇ ka zunˋ。 naˊ zagˋ kungˊ xiongˊ eˋ loiˇ zo lamˇ kiuˇ kiongˊ， xiongˊ eˋ hong xiaˋ hoˋ funˊ su， enˊ liˋ qiu zo dedˋ koiˊ siiˋ leˊ。",
       "qty": 1,
       "audio": "audio/C03.wav",
-      "audio_status": "pending",
+      "audio_status": "generated_ai_unreviewed",
       "need1": "拿空紙箱當籃框",
       "need2": "在箱子上寫分數",
       "props1": [
@@ -1953,7 +1968,10 @@ window.CARD_DATA = {
       ],
       "max_score": 2,
       "reason": "原文要求準備空箱子及在箱上標示分數；紙箱與鉛筆分別直接對應。「寫好分數就可以開始」是開始前待完成的條件，與K07已寫好標籤的現成狀態不同。沒有要求剪洞、封箱或量距離，不能新增這些需求。",
-      "pairing_status": "20260918設計試玩配對"
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.2669375
     },
     {
       "id": "C04",
@@ -1992,8 +2010,11 @@ window.CARD_DATA = {
       "pinyin": "iaˋ punˇ faˊ kiung ha loiˇ zung hoˋ moˇ？ ngaiˇ lauˊ naiˇ ieuˋ log faˊ punˇ， faˊ zung hoˋ leˊ， ngiˇ zang fu jidˋ limˇ suiˋ。",
       "qty": 1,
       "audio": "audio/C04.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.7380625
     },
     {
       "id": "C05",
@@ -2026,8 +2047,11 @@ window.CARD_DATA = {
       "pinyin": "oi siid fan leˊ， loiˇ ten suˋ。 ngiˇ lauˊ vonˋ baiˇ hoˋ， ngaiˇ loiˇ baiˇ kuai eˋ， denˋ ha tai gaˊ qiu zo dedˋ kiung ha siid leˊ。",
       "qty": 1,
       "audio": "audio/C05.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.876
     },
     {
       "id": "C06",
@@ -2042,7 +2066,7 @@ window.CARD_DATA = {
       "pinyin": "enˊ liˋ loiˇ gauˋ kong boˋ vud ge iuˇ hi。 ti tuˇ ngaiˇ loiˇ fa， ngiˇ lauˊ xien sogˋ ziiˋ tiauˇ zabˋ hoˋ， qimˇ zagˋ soˋ cai kong hiˋ loiˇ。",
       "qty": 1,
       "audio": "audio/C06.wav",
-      "audio_status": "pending",
+      "audio_status": "generated_ai_unreviewed",
       "need1": "畫藏寶地圖",
       "need2": null,
       "props1": [
@@ -2058,7 +2082,10 @@ window.CARD_DATA = {
       ],
       "max_score": 1,
       "reason": "畫地圖可用鉛筆；摺好線索紙條與找地方藏是明說動作，但可徒手完成，現有20種道具沒有必須投入的對應工具。原文未要求用箱子、袋子、瓶子容納線索，亦未要求黏住或剪紙，因此不硬設第二道具得分需求。玩家可用客語敘述摺藏工作，但此固定道具配對題最多1分。",
-      "pairing_status": "20260918設計試玩配對"
+      "pairing_status": "20260918設計試玩配對",
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.578625
     },
     {
       "id": "C07",
@@ -2128,8 +2155,11 @@ window.CARD_DATA = {
       "pinyin": "denˋ ha zo hi， ngaiˇ oi kiˇ so baˋ biˊ cudˋ loiˇ！ hi toiˇ tedˋ am， ngiˇ lauˊ ngaiˇ zeu ka gongˊ deuˊ， tai gaˊ zang kon dedˋ doˋ ngaiˇ。",
       "qty": 1,
       "audio": "audio/C08.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 11.5404375
     },
     {
       "id": "C09",
@@ -2165,8 +2195,11 @@ window.CARD_DATA = {
       "pinyin": "fai leˊ， log iˋ leˊ！ enˊ liˋ ge ziiˋ sonˇ hanˇ oi sung hi zanˋ lam。 ngiˇ kiaˇ zaˊ eˋ lauˊ ziiˋ sonˇ zaˊ iˋ， ngaiˇ lauˊ iaˋ giˋ zagˋ kiung ha deuˊ go hi。",
       "qty": 1,
       "audio": "audio/C09.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.911625
     },
     {
       "id": "C10",
@@ -2199,8 +2232,11 @@ window.CARD_DATA = {
       "pinyin": "iaˋ deuˊ suˊ sung hi hog gauˋ， qiu iuˊ hanˇ ka doˊ se nginˇ eˋ iuˊ hoˋ kon。 ngaiˇ loiˇ zongˊ xiongˊ， ngiˇ lauˊ xiongˊ eˋ fungˊ hoˋ， enˊ liˋ kiung ha banˊ go hi。",
       "qty": 1,
       "audio": "audio/C10.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 12.8898125
     },
     {
       "id": "C11",
@@ -2242,8 +2278,11 @@ window.CARD_DATA = {
       "pinyin": "kiung ha loiˇ zongˊ suiˋ。 ngiˇ lauˊ biˊ eˋ zongˊ nemˊ suiˋ， ngaiˇ deuˊ go hi， kon zo dedˋ idˋ didˋ du moˇ gieb cudˋ loiˇ moˇ。",
       "qty": 1,
       "audio": "audio/C11.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 9.733125
     },
     {
       "id": "C12",
@@ -2276,8 +2315,11 @@ window.CARD_DATA = {
       "pinyin": "enˊ liˋ loiˇ zo zagˋ di zogˋ dangˋ gauˋ ge iuˇ hi！ ngaiˇ fa kiˇ panˇ， ngiˇ jienˋ iuˇ hi kaˋ pienˋ， zo hoˋ qiu qimˇ penˇ iuˊ kiung ha gauˋ。",
       "qty": 1,
       "audio": "audio/C12.wav",
-      "audio_status": "pending",
-      "max_score": 2
+      "audio_status": "generated_ai_unreviewed",
+      "max_score": 2,
+      "audio_provider": "客家委員會臺灣客語語音資料庫",
+      "voice": "hak-xi-TW-vs2-F01",
+      "audio_duration": 10.8193125
     },
     {
       "id": "T01",
@@ -2997,5 +3039,6 @@ window.CARD_DATA = {
         "reason": "畫地圖可用鉛筆；摺好線索紙條與找地方藏是明說動作，但可徒手完成，現有20種道具沒有必須投入的對應工具。原文未要求用箱子、袋子、瓶子容納線索，亦未要求黏住或剪紙，因此不硬設第二道具得分需求。玩家可用客語敘述摺藏工作，但此固定道具配對題最多1分。"
       }
     }
-  ]
+  ],
+  "audio_completed_at": "2026-09-19T18:15:39+08:00"
 };
